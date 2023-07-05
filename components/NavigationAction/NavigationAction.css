@@ -1,0 +1,220 @@
+.navigation-action {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 40px;
+  left: 384px;
+  min-width: 240px;
+  position: absolute;
+  top: 255px;
+}
+
+.overlap-group-28 {
+  align-items: center;
+  background-image: url(/static/img/step-actions---bg---focus-copy-14.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 40px;
+  min-width: 240px;
+  padding: 0 14px;
+}
+
+.label-80 {
+  letter-spacing: 0;
+  line-height: 14.5px;
+  margin-top: 1.0px;
+  min-height: 15px;
+  min-width: 51px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.line {
+  height: 32px;
+  margin-left: 13px;
+  width: 2px;
+}
+
+.label-81 {
+  letter-spacing: 0;
+  line-height: 14.5px;
+  margin-left: 7px;
+  margin-top: 1.0px;
+  min-height: 15px;
+  min-width: 65px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.line-1 {
+  height: 32px;
+  margin-left: 7px;
+  width: 2px;
+}
+
+.label-82 {
+  letter-spacing: 0;
+  line-height: 14.5px;
+  margin-left: 23px;
+  margin-top: 1.0px;
+  min-height: 15px;
+  min-width: 30px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.navigation-action.navigation-action-1,
+.navigation-action.navigation-action-4,
+.navigation-action.navigation-action-5,
+.navigation-action.navigation-action-7,
+.navigation-action.navigation-action-8,
+.navigation-action.navigation-action-9 {
+  top: 505px;
+}
+
+.navigation-action.navigation-action-1 .overlap-group-28 {
+  background-image: url(/static/img/step-actions---bg---focus-copy-16.svg);
+}
+
+.navigation-action.navigation-action-2,
+.navigation-action.navigation-action-3,
+.navigation-action.navigation-action-6 {
+  top: 1021px;
+}
+
+.navigation-action.navigation-action-2 .overlap-group-28 {
+  background-image: url(/static/img/step-actions---bg---focus-copy-17.svg);
+  height: 35px;
+}
+
+.navigation-action.navigation-action-2 .label-80,
+.navigation-action.navigation-action-2 .label-81,
+.navigation-action.navigation-action-2 .label-82,
+.navigation-action.navigation-action-3 .label-80,
+.navigation-action.navigation-action-3 .label-81,
+.navigation-action.navigation-action-3 .label-82,
+.navigation-action.navigation-action-6 .label-80,
+.navigation-action.navigation-action-6 .label-81,
+.navigation-action.navigation-action-6 .label-82 {
+  margin-top: 6.0px;
+}
+
+.navigation-action.navigation-action-2 .line,
+.navigation-action.navigation-action-2 .line-1,
+.navigation-action.navigation-action-3 .line,
+.navigation-action.navigation-action-3 .line-1,
+.navigation-action.navigation-action-6 .line,
+.navigation-action.navigation-action-6 .line-1 {
+  align-self: flex-end;
+  height: 31px;
+}
+
+.navigation-action.navigation-action-3 .overlap-group-28 {
+  background-image: url(/static/img/step-actions---bg---focus-copy-18.svg);
+  height: 35px;
+}
+
+.navigation-action.navigation-action-4 .overlap-group-28 {
+  background-image: url(/static/img/step-actions---bg---focus-copy-19.svg);
+}
+
+.navigation-action.navigation-action-5 .overlap-group-28 {
+  background-image: url(/static/img/step-actions---bg---focus-copy-20.svg);
+}
+
+.navigation-action.navigation-action-6 .overlap-group-28 {
+  background-image: url(/static/img/step-actions---bg---focus-copy-21.svg);
+  height: 35px;
+}
+
+.navigation-action.navigation-action-7 .overlap-group-28 {
+  background-image: url(/static/img/step-actions---bg---focus-copy-23.svg);
+}
+
+.navigation-action.navigation-action-8 .overlap-group-28 {
+  background-image: url(/static/img/step-actions---bg---focus-copy-24.svg);
+}
+
+.navigation-action.navigation-action-9 .overlap-group-28 {
+  background-image: url(/static/img/step-actions---bg---focus-copy-25.svg);
+}
+
+.navigation-action.navigation-action-10,
+.navigation-action.navigation-action-13,
+.navigation-action.navigation-action-17,
+.navigation-action.navigation-action-18,
+.navigation-action.navigation-action-19,
+.navigation-action.navigation-action-20,
+.navigation-action.navigation-action-21,
+.navigation-action.navigation-action-22,
+.navigation-action.navigation-action-23 {
+  top: 785px;
+}
+
+.navigation-action.navigation-action-10 .overlap-group-28 {
+  background-image: url(/static/img/step-actions---bg---focus-copy.svg);
+}
+
+.navigation-action.navigation-action-11 {
+  top: 181px;
+}
+
+.navigation-action.navigation-action-11 .overlap-group-28 {
+  background-image: url(/static/img/step-actions---bg---focus-copy-1.svg);
+}
+
+.navigation-action.navigation-action-12,
+.navigation-action.navigation-action-14,
+.navigation-action.navigation-action-15,
+.navigation-action.navigation-action-16 {
+  top: 569px;
+}
+
+.navigation-action.navigation-action-12 .overlap-group-28 {
+  background-image: url(/static/img/step-actions---bg---focus-copy-2.svg);
+}
+
+.navigation-action.navigation-action-13 .overlap-group-28 {
+  background-image: url(/static/img/step-actions---bg---focus-copy-3.svg);
+}
+
+.navigation-action.navigation-action-14 .overlap-group-28 {
+  background-image: url(/static/img/step-actions---bg---focus-copy-4.svg);
+}
+
+.navigation-action.navigation-action-15 .overlap-group-28 {
+  background-image: url(/static/img/step-actions---bg---focus-copy-5.svg);
+}
+
+.navigation-action.navigation-action-16 .overlap-group-28 {
+  background-image: url(/static/img/step-actions---bg---focus-copy-6.svg);
+}
+
+.navigation-action.navigation-action-17 .overlap-group-28 {
+  background-image: url(/static/img/step-actions---bg---focus-copy-7.svg);
+}
+
+.navigation-action.navigation-action-18 .overlap-group-28 {
+  background-image: url(/static/img/step-actions---bg---focus-copy-8.svg);
+}
+
+.navigation-action.navigation-action-19 .overlap-group-28 {
+  background-image: url(/static/img/step-actions---bg---focus-copy-9.svg);
+}
+
+.navigation-action.navigation-action-20 .overlap-group-28 {
+  background-image: url(/static/img/step-actions---bg---focus-copy-10.svg);
+}
+
+.navigation-action.navigation-action-21 .overlap-group-28 {
+  background-image: url(/static/img/step-actions---bg---focus-copy-11.svg);
+}
+
+.navigation-action.navigation-action-22 .overlap-group-28 {
+  background-image: url(/static/img/step-actions---bg---focus-copy-12.svg);
+}
+
+.navigation-action.navigation-action-23 .overlap-group-28 {
+  background-image: url(/static/img/step-actions---bg---focus-copy-13.svg);
+}
+

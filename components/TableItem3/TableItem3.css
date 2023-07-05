@@ -1,0 +1,26 @@
+.table-item-8,
+.table-item-9,
+.table-item-10,
+.table-item-11 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  height: 20px;
+  padding: 6px 20px 6px 10px;
+  position: relative;
+  width: fit-content;
+}
+
+.label-172,
+.label-173,
+.label-174,
+.label-175 {
+  letter-spacing: 0;
+  line-height: 14.5px;
+  margin-bottom: -1.50px;
+  margin-top: -5.50px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+

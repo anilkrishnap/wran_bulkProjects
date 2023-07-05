@@ -1,0 +1,25 @@
+.table-action-24,
+.table-action-25,
+.table-action-26,
+.table-action-27,
+.table-action-28 {
+  align-items: center;
+  display: flex;
+  gap: 5px;
+  position: relative;
+  width: fit-content;
+}
+
+.action-24,
+.action-25,
+.action-26,
+.action-27,
+.action-28 {
+  letter-spacing: 0;
+  line-height: 16.8px;
+  margin-top: -0.50px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+

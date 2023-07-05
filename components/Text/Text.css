@@ -1,0 +1,25 @@
+.text-27 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  gap: 10px;
+  margin-right: -3.00px;
+  padding: 77px 432px;
+  position: relative;
+  width: fit-content;
+}
+
+.no-contacts-added-yet {
+  letter-spacing: 0;
+  line-height: 14.5px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.text-27.text-29 {
+  margin-right: unset;
+}
+

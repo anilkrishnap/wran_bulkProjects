@@ -1,0 +1,36 @@
+.column-header-46,
+.column-header-47,
+.column-header-48,
+.column-header-49 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  gap: 10px;
+  padding: 0px 10px;
+  position: relative;
+}
+
+.text-82,
+.text-83,
+.text-84,
+.text-85 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  gap: 10px;
+  padding: 5px 0px;
+  position: relative;
+}
+
+.label-317,
+.label-319,
+.label-321,
+.label-323 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 14.5px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+}
+

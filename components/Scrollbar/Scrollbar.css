@@ -1,0 +1,24 @@
+.scrollbar {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--black-haze);
+  display: flex;
+  gap: 10px;
+  justify-content: flex-end;
+  padding: 1px;
+  position: relative;
+  width: fit-content;
+}
+
+.scroller {
+  background-color: var(--alto);
+  border-radius: 3px;
+  height: 44px;
+  min-width: 6px;
+  position: relative;
+}
+
+.scrollbar.scrollbar-1 {
+  justify-content: unset;
+}
+

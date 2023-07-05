@@ -1,0 +1,62 @@
+.fields-4,
+.fields-5,
+.fields-6,
+.fields-7,
+.fields-8,
+.fields-9,
+.fields-10,
+.fields-11,
+.fields-12,
+.fields-13,
+.fields-14,
+.fields-15,
+.fields-16 {
+  align-items: center;
+  display: flex;
+  gap: 27px;
+  padding: 0px 0px 0px 10px;
+  position: relative;
+  width: fit-content;
+}
+
+.radio-button,
+.radio-button-1,
+.radio-button-2,
+.radio-button-3,
+.radio-button-4,
+.radio-button-5,
+.radio-button-6,
+.radio-button-7,
+.radio-button-8,
+.radio-button-9,
+.radio-button-10,
+.radio-button-11,
+.radio-button-12 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  height: 20px;
+  position: relative;
+  width: 90.18px;
+}
+
+.placeholder-text-182,
+.placeholder-text-183,
+.placeholder-text-184,
+.placeholder-text-185,
+.placeholder-text-186,
+.placeholder-text-187,
+.placeholder-text-188,
+.placeholder-text-189,
+.placeholder-text-190,
+.placeholder-text-191,
+.placeholder-text-192,
+.placeholder-text-193,
+.placeholder-text-194 {
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+

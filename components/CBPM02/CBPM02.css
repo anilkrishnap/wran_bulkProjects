@@ -1,0 +1,139 @@
+.cbpm-02 {
+  align-items: flex-start;
+  background-color: var(--white-lilac);
+  border: 1px none;
+  display: flex;
+  height: 802px;
+  min-width: 1024px;
+}
+
+.overlap-group4-2 {
+  height: 373px;
+  position: relative;
+  width: 1024px;
+}
+
+.template-create-bulk-projects-3 {
+  align-items: center;
+  background-color: var(--white-lilac);
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: fit-content;
+}
+
+.localcbp-new-build-2 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+  width: fit-content;
+}
+
+.navigation-window-13 {
+  height: 219px;
+  min-width: 1004px;
+  position: relative;
+}
+
+.overlap-group2-4 {
+  height: 221px;
+  left: -2px;
+  position: relative;
+  top: -2px;
+  width: 1008px;
+}
+
+.body-13 {
+  align-items: center;
+  background-color: var(--white);
+  border: 4px solid;
+  border-color: var(--black);
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 183px;
+  left: 0;
+  padding: 4px;
+  position: absolute;
+  top: 0;
+  width: 1008px;
+}
+
+.local-select-solution-type-3-9 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  padding: 0px 0px 18px;
+  position: relative;
+}
+
+.fields-17 {
+  align-items: center;
+  display: flex;
+  gap: 27px;
+  padding: 0px 0px 0px 10px;
+  position: relative;
+  width: fit-content;
+}
+
+.radio-button-27 {
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  gap: 10px;
+  height: 20px;
+  position: relative;
+  width: 90.18px;
+}
+
+.placeholder-text-229 {
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.divider-235 {
+  background-color: var(--alto);
+  height: 1px;
+  min-width: 999px;
+  position: relative;
+}
+
+.click-container-7 {
+  height: 47px;
+  left: 111px;
+  position: absolute;
+  top: 209px;
+  width: 32px;
+}
+
+.click-26 {
+  height: 40px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 32px;
+}
+
+.click-27 {
+  -webkit-text-stroke: 2px var(--white);
+  left: 0;
+  letter-spacing: 0;
+  line-height: 11px;
+  position: absolute;
+  text-align: center;
+  top: 36px;
+  white-space: nowrap;
+}
+

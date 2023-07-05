@@ -1,0 +1,34 @@
+.table-22,
+.table-23,
+.table-24 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  gap: 5px;
+  position: relative;
+}
+
+.text-icon-27,
+.text-icon-28,
+.text-icon-29 {
+  align-items: center;
+  border: 2px solid;
+  border-color: var(--tan-hide);
+  display: flex;
+  gap: 5px;
+  padding: 5px 10px;
+  position: relative;
+  width: fit-content;
+}
+
+.label-347,
+.label-348,
+.label-349 {
+  letter-spacing: 0;
+  line-height: 14.5px;
+  margin-top: -2.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+

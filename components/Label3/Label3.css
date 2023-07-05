@@ -1,0 +1,29 @@
+.label-48,
+.label-50,
+.label-52,
+.label-54,
+.label-56,
+.label-58,
+.label-60,
+.label-62 {
+  align-items: flex-end;
+  display: flex;
+  position: relative;
+  width: fit-content;
+}
+
+.label-49,
+.label-51,
+.label-53,
+.label-55,
+.label-57,
+.label-59,
+.label-61,
+.label-63 {
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+

@@ -1,0 +1,46 @@
+.input-fields-1 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--alto);
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  height: 30px;
+  padding: 7px 0px 0px;
+  position: relative;
+}
+
+.frame-18-38 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  justify-content: space-between;
+  padding: 0px 10px;
+  position: relative;
+}
+
+.placeholder-text-37 {
+  letter-spacing: 0;
+  line-height: 14.5px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.atomsicon2019close-30 {
+  height: 8px;
+  min-width: 8px;
+  position: relative;
+}
+
+.divider-44 {
+  align-self: stretch;
+  background-color: var(--black);
+  height: 1px;
+  min-width: 239px;
+  position: relative;
+}
+

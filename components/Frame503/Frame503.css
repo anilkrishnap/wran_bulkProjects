@@ -1,0 +1,40 @@
+.frame-503,
+.frame-503-1,
+.add-carrier-2,
+.add-carrier-4,
+.add-carrier-6 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  padding: 0px 0px 0px 10px;
+  position: relative;
+  width: fit-content;
+}
+
+.add-carrier,
+.add-carrier-1,
+.add-carrier-3,
+.add-carrier-5,
+.add-carrier-7 {
+  height: 17px;
+  letter-spacing: 0;
+  line-height: 14.5px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: 115px;
+}
+
+.frame-502,
+.frame-502-1,
+.frame-502-2,
+.frame-502-3,
+.frame-502-4 {
+  align-items: flex-start;
+  display: flex;
+  gap: 19px;
+  position: relative;
+  width: fit-content;
+}
+

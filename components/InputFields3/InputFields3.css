@@ -1,0 +1,96 @@
+.input-fields-20,
+.input-fields-21,
+.input-fields-27,
+.input-fields-28,
+.input-fields-22,
+.input-fields-23,
+.input-fields-29,
+.input-fields-30,
+.input-fields-24,
+.input-fields-25,
+.input-fields-26 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--alto);
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  height: 30px;
+  padding: 7px 0px 0px;
+  position: relative;
+}
+
+.frame-20-18,
+.frame-20-19,
+.frame-20-25,
+.frame-20-26,
+.frame-20-20,
+.frame-20-21,
+.frame-20-27,
+.frame-20-28,
+.frame-20-22,
+.frame-20-23,
+.frame-20-24 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  justify-content: space-between;
+  padding: 0px 10px;
+  position: relative;
+}
+
+.placeholder-text-63,
+.placeholder-text-64,
+.placeholder-text-70,
+.placeholder-text-71,
+.placeholder-text-65,
+.placeholder-text-66,
+.placeholder-text-72,
+.placeholder-text-73,
+.placeholder-text-67,
+.placeholder-text-68,
+.placeholder-text-69 {
+  letter-spacing: 0;
+  line-height: 14.5px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.atomsicon2019close-46,
+.atomsicon2019close-47,
+.atomsicon2019close-53,
+.atomsicon2019close-54,
+.atomsicon2019close-48,
+.atomsicon2019close-49,
+.atomsicon2019close-55,
+.atomsicon2019close-56,
+.atomsicon2019close-50,
+.atomsicon2019close-51,
+.atomsicon2019close-52 {
+  height: 8px;
+  min-width: 8px;
+  position: relative;
+}
+
+.elements-47,
+.elements-48,
+.elements-54,
+.elements-55,
+.elements-49,
+.elements-50,
+.elements-56,
+.elements-57,
+.elements-51,
+.elements-52,
+.elements-53 {
+  align-self: stretch;
+  background-color: var(--black);
+  height: 1px;
+  min-width: 239px;
+  position: relative;
+}
+

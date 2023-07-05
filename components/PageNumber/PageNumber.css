@@ -1,0 +1,46 @@
+.page-number,
+.page-number-1,
+.page-number-2,
+.page-number-3,
+.page-number-4,
+.page-number-5,
+.page-number-6,
+.page-number-7,
+.page-number-8,
+.page-number-9,
+.page-number-10,
+.page-number-11 {
+  align-items: center;
+  background-color: var(--black);
+  border-radius: 40px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 35px;
+  justify-content: center;
+  padding: 10px 14px;
+  position: relative;
+  width: 35px;
+}
+
+.placeholder-text-96,
+.placeholder-text-97,
+.placeholder-text-98,
+.placeholder-text-99,
+.placeholder-text-100,
+.placeholder-text-101,
+.placeholder-text-102,
+.placeholder-text-103,
+.placeholder-text-104,
+.placeholder-text-105,
+.placeholder-text-106,
+.placeholder-text-107 {
+  letter-spacing: 0;
+  line-height: 16.8px;
+  margin-top: -2.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+

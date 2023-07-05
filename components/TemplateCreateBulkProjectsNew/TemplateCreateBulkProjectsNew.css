@@ -1,0 +1,112 @@
+.template-create-bulk-projects-new-2 {
+  align-items: flex-start;
+  background-color: var(--white-lilac);
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 1004px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: fit-content;
+}
+
+.localcbp-modification-3-4 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 0px 10px;
+  position: relative;
+  width: fit-content;
+}
+
+.navigation-window-19 {
+  height: 823px;
+  min-width: 1004px;
+  position: relative;
+}
+
+.overlap-group3-14 {
+  height: 825px;
+  left: -2px;
+  position: relative;
+  top: -2px;
+  width: 1008px;
+}
+
+.body-19 {
+  align-items: center;
+  background-color: var(--white);
+  border: 4px solid;
+  border-color: var(--black);
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 787px;
+  left: 0;
+  padding: 4px;
+  position: absolute;
+  top: 0;
+  width: 1008px;
+}
+
+.table-with-validation-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--white);
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: center;
+  overflow: hidden;
+  position: relative;
+}
+
+.frame-499-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-right: -4.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.local-create-bulk-projects-table-12-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+  width: fit-content;
+}
+
+.table-new-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 496px;
+  position: relative;
+  width: 1000px;
+}
+
+.divider-262 {
+  background-color: var(--alto);
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1000px;
+}
+
+.divider-263 {
+  background-color: var(--alto);
+  height: 1px;
+  left: 12px;
+  position: absolute;
+  top: 95px;
+  width: 1000px;
+}
+

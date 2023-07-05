@@ -1,0 +1,35 @@
+.table-25,
+.table-26,
+.table-27 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  gap: 5px;
+  position: relative;
+}
+
+.text-icon-33,
+.text-icon-34,
+.text-icon-35 {
+  align-items: center;
+  border: 2px solid;
+  border-color: var(--grandis);
+  display: flex;
+  gap: 5px;
+  margin-right: -17.33px;
+  padding: 5px 10px;
+  position: relative;
+  width: fit-content;
+}
+
+.label-353,
+.label-354,
+.label-355 {
+  letter-spacing: 0;
+  line-height: 14.5px;
+  margin-top: -2.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+

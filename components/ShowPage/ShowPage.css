@@ -1,0 +1,141 @@
+.show-page,
+.show-page-1,
+.show-page-2,
+.show-page-3,
+.show-page-4,
+.show-page-5,
+.show-page-6,
+.show-page-7,
+.show-page-8,
+.show-page-9,
+.show-page-10,
+.show-page-11 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: fit-content;
+}
+
+.input-fields-38,
+.input-fields-39,
+.input-fields-40,
+.input-fields-41,
+.input-fields-42,
+.input-fields-43,
+.input-fields-44,
+.input-fields-45,
+.input-fields-46,
+.input-fields-47,
+.input-fields-48,
+.input-fields-49 {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--alto);
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  height: 29px;
+  padding: 7px 0px 0px;
+  position: relative;
+  width: 51px;
+}
+
+.elements-68,
+.elements-69,
+.elements-70,
+.elements-71,
+.elements-72,
+.elements-73,
+.elements-74,
+.elements-75,
+.elements-76,
+.elements-77,
+.elements-78,
+.elements-79 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  margin-bottom: -1.00px;
+  position: relative;
+}
+
+.frame-31-1,
+.frame-31-2,
+.frame-31-3,
+.frame-31-4,
+.frame-31-5,
+.frame-31-6,
+.frame-31-7,
+.frame-31-8,
+.frame-31-9,
+.frame-31-10,
+.frame-31-11,
+.frame-31-12 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  justify-content: space-between;
+  padding: 0px 10px;
+  position: relative;
+}
+
+.placeholder-text-84,
+.placeholder-text-85,
+.placeholder-text-86,
+.placeholder-text-87,
+.placeholder-text-88,
+.placeholder-text-89,
+.placeholder-text-90,
+.placeholder-text-91,
+.placeholder-text-92,
+.placeholder-text-93,
+.placeholder-text-94,
+.placeholder-text-95 {
+  letter-spacing: 0;
+  line-height: 16.8px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.atomsicon2019close-60,
+.atomsicon2019close-61,
+.atomsicon2019close-62,
+.atomsicon2019close-63,
+.atomsicon2019close-64,
+.atomsicon2019close-65,
+.atomsicon2019close-66,
+.atomsicon2019close-67,
+.atomsicon2019close-68,
+.atomsicon2019close-69,
+.atomsicon2019close-70,
+.atomsicon2019close-71 {
+  height: 16px;
+  min-width: 16px;
+  position: relative;
+}
+
+.divider-75,
+.divider-76,
+.divider-77,
+.divider-78,
+.divider-79,
+.divider-80,
+.divider-81,
+.divider-82,
+.divider-83,
+.divider-84,
+.divider-85,
+.divider-86 {
+  align-self: stretch;
+  background-color: var(--black);
+  height: 1px;
+  min-width: 51px;
+  position: relative;
+}
+

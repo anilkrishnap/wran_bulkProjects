@@ -1,0 +1,59 @@
+.action-bar-9,
+.action-bar-10,
+.action-bar-11,
+.action-bar-12 {
+  align-self: stretch;
+  background-color: var(--white);
+  height: 40px;
+  min-width: 1000px;
+  position: relative;
+}
+
+.overlap-group1-40,
+.overlap-group1-41,
+.overlap-group1-42,
+.overlap-group1-43 {
+  height: 41px;
+  left: -1px;
+  position: relative;
+  width: 1002px;
+}
+
+.action-bar-items-9,
+.action-bar-items-10,
+.action-bar-items-11,
+.action-bar-items-12 {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  left: 1px;
+  padding: 6px 10px 5px;
+  position: absolute;
+  top: 0;
+  width: 1000px;
+}
+
+.action-menu-9,
+.action-menu-10,
+.action-menu-11,
+.action-menu-12 {
+  align-items: flex-start;
+  display: flex;
+  gap: 10px;
+  position: relative;
+  width: fit-content;
+}
+
+.divider-252,
+.divider-253,
+.divider-254,
+.divider-255 {
+  background-color: var(--black);
+  border: 0px none;
+  height: 3px;
+  left: 0;
+  position: absolute;
+  top: 38px;
+  width: 1002px;
+}
+

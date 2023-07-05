@@ -1,0 +1,58 @@
+.arrow,
+.arrow-1,
+.arrow-2,
+.arrow-3,
+.arrow-4,
+.arrow-5,
+.arrow-6,
+.arrow-7,
+.arrow-8,
+.arrow-9,
+.arrow-10,
+.arrow-11 {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  gap: 22px;
+  justify-content: center;
+  padding: 10px;
+  position: relative;
+  width: fit-content;
+}
+
+.atomsicon2019close-72,
+.atomsicon2019close-73,
+.atomsicon2019close-74,
+.atomsicon2019close-75,
+.atomsicon2019close-76,
+.atomsicon2019close-77,
+.atomsicon2019close-78,
+.atomsicon2019close-79,
+.atomsicon2019close-80,
+.atomsicon2019close-81,
+.atomsicon2019close-82,
+.atomsicon2019close-83 {
+  height: 16px;
+  min-width: 16px;
+  position: relative;
+}
+
+.divider-87,
+.divider-88,
+.divider-89,
+.divider-90,
+.divider-91,
+.divider-92,
+.divider-93,
+.divider-94,
+.divider-95,
+.divider-96,
+.divider-97,
+.divider-98 {
+  background-color: var(--alto);
+  height: 1px;
+  min-width: 18px;
+  position: relative;
+  transform: rotate(-90deg);
+}
+

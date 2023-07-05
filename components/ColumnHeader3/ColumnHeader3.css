@@ -1,0 +1,40 @@
+.column-header-24-1 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  gap: 10px;
+  padding: 0px 10px;
+  position: relative;
+}
+
+.text-60 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  gap: 10px;
+  padding: 5px 0px;
+  position: relative;
+}
+
+.label-268 {
+  letter-spacing: 0;
+  line-height: 14.5px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.column-header-24-1.column-header-24 .label-268,
+.column-header-24-1.column-header-25 .label-268,
+.column-header-24-1.column-header-26 .label-268,
+.column-header-24-1.column-header-27 .label-268,
+.column-header-24-1.column-header-28 .label-268,
+.column-header-24-1.column-header-29 .label-268,
+.column-header-24-1.column-header-30 .label-268,
+.column-header-24-1.column-header-31 .label-268,
+.column-header-24-1.column-header-32 .label-268 {
+  flex: 1;
+  width: unset;
+}
+

@@ -1,0 +1,61 @@
+.heading-21 {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  height: 39px;
+  min-width: 998px;
+  padding: 0 10px;
+}
+
+.placeholder-text-133 {
+  letter-spacing: 0;
+  line-height: 19px;
+  min-width: 145px;
+  white-space: nowrap;
+}
+
+.heading-21.heading-25,
+.heading-21.heading-27,
+.heading-21.heading-30,
+.heading-21.heading-31,
+.heading-21.heading-32,
+.heading-21.heading-33,
+.heading-21.heading-34,
+.heading-21.heading-35,
+.heading-21.heading-36 {
+  align-items: unset;
+  display: unset;
+  min-width: 998px;
+  padding: unset;
+  position: relative;
+}
+
+.heading-21.heading-25 .placeholder-text-133,
+.heading-21.heading-26 .placeholder-text-133,
+.heading-21.heading-27 .placeholder-text-133,
+.heading-21.heading-28 .placeholder-text-133,
+.heading-21.heading-29 .placeholder-text-133,
+.heading-21.heading-30 .placeholder-text-133,
+.heading-21.heading-31 .placeholder-text-133,
+.heading-21.heading-32 .placeholder-text-133,
+.heading-21.heading-33 .placeholder-text-133,
+.heading-21.heading-34 .placeholder-text-133,
+.heading-21.heading-35 .placeholder-text-133,
+.heading-21.heading-36 .placeholder-text-133 {
+  left: 10px;
+  min-width: unset;
+  position: absolute;
+  top: 10px;
+}
+
+.heading-21.heading-26,
+.heading-21.heading-28,
+.heading-21.heading-29 {
+  align-items: unset;
+  display: unset;
+  margin-right: -2.00px;
+  min-width: 998px;
+  padding: unset;
+  position: relative;
+}
+

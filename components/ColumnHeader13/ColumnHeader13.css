@@ -1,0 +1,45 @@
+.column-header-42-1 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  gap: 10px;
+  padding: 0px 10px;
+  position: relative;
+}
+
+.text-78 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  gap: 10px;
+  padding: 5px 0px;
+  position: relative;
+}
+
+.label-316 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 14.5px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.column-header-42-1.column-header-42-2 .label-316,
+.column-header-42-1.column-header-43-2 .label-316,
+.column-header-42-1.column-header-44-2 .label-316,
+.column-header-42-1.column-header-45-2 .label-316,
+.column-header-42-1.column-header-42-3 .label-316,
+.column-header-42-1.column-header-42-4 .label-316,
+.column-header-42-1.column-header-42 .label-316,
+.column-header-42-1.column-header-43-3 .label-316,
+.column-header-42-1.column-header-43-4 .label-316,
+.column-header-42-1.column-header-43 .label-316,
+.column-header-42-1.column-header-44-3 .label-316,
+.column-header-42-1.column-header-44-4 .label-316,
+.column-header-42-1.column-header-44 .label-316,
+.column-header-42-1.column-header-45-3 .label-316,
+.column-header-42-1.column-header-45-4 .label-316,
+.column-header-42-1.column-header-45 .label-316 {
+  white-space: nowrap;
+}
+

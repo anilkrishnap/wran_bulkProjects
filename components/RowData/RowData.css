@@ -1,0 +1,22 @@
+.row-data-6,
+.row-data-7 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  position: absolute;
+  top: 40px;
+  width: 147px;
+}
+
+.cell-row,
+.cell-row-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  padding: 10px 0px;
+  position: relative;
+}
+

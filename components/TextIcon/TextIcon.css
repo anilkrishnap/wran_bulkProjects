@@ -1,0 +1,55 @@
+.text-icon-30,
+.text-icon-31,
+.text-icon-32 {
+  align-items: center;
+  border: 2px solid;
+  border-color: var(--tan-hide);
+  display: flex;
+  gap: 5px;
+  padding: 5px 10px;
+  position: relative;
+  width: fit-content;
+}
+
+.milestones,
+.milestones-1,
+.milestones-2 {
+  background-color: var(--clementine);
+  border-radius: 6px;
+  height: 12px;
+  min-width: 12px;
+  position: relative;
+}
+
+.path-263,
+.path-264,
+.path-265 {
+  height: 6px;
+  left: 5px;
+  position: absolute;
+  top: 2px;
+  width: 1px;
+}
+
+.rectangle-143,
+.rectangle-144,
+.rectangle-145 {
+  background-color: var(--white);
+  height: 1px;
+  left: 5px;
+  position: absolute;
+  top: 9px;
+  width: 1px;
+}
+
+.label-350,
+.label-351,
+.label-352 {
+  letter-spacing: 0;
+  line-height: 14.5px;
+  margin-top: -2.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+

@@ -1,0 +1,39 @@
+.cell-row-2,
+.cell-row-3,
+.cell-row-4,
+.cell-row-5 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  padding: 10px 0px;
+  position: relative;
+}
+
+.table-item-28,
+.table-item-29,
+.table-item-30,
+.table-item-31 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  height: 20px;
+  padding: 6px 20px 6px 10px;
+  position: relative;
+  width: fit-content;
+}
+
+.label-192,
+.label-193,
+.label-194,
+.label-195 {
+  letter-spacing: 0;
+  line-height: 14.5px;
+  margin-bottom: -1.50px;
+  margin-top: -5.50px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+

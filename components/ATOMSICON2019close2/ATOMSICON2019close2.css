@@ -1,0 +1,40 @@
+.atomsicon2019close-31 {
+  height: 12px;
+  min-width: 12px;
+  position: relative;
+}
+
+.group-65 {
+  align-items: flex-start;
+  display: flex;
+  min-width: 12px;
+}
+
+.group-66 {
+  align-items: flex-end;
+  background-image: url(/static/img/shape-172.svg);
+  background-size: 100% 100%;
+  display: flex;
+  gap: 1px;
+  height: 12px;
+  min-width: 12px;
+  padding: 2.2px 2.4px;
+}
+
+.path-143 {
+  height: 6px;
+  width: 4px;
+}
+
+.path-154 {
+  height: 6px;
+  margin-bottom: 0.12px;
+  width: 2px;
+}
+
+.atomsicon2019close-31.atomsicon2019close-35 .group-66,
+.atomsicon2019close-31.atomsicon2019close-36 .group-66,
+.atomsicon2019close-31.atomsicon2019close-37 .group-66 {
+  background-image: url(/static/img/shape-217.svg);
+}
+

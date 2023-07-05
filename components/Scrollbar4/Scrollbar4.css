@@ -1,0 +1,37 @@
+.scrollbar-10,
+.scrollbar-11,
+.scrollbar-12,
+.scrollbar-13,
+.scrollbar-14,
+.scrollbar-15,
+.scrollbar-16,
+.scrollbar-17,
+.scrollbar-18 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--black-haze);
+  display: flex;
+  flex-direction: column;
+  padding: 1px;
+  position: relative;
+}
+
+.scroller-10,
+.scroller-11,
+.scroller-12,
+.scroller-13,
+.scroller-14,
+.scroller-15,
+.scroller-16,
+.scroller-17,
+.scroller-18 {
+  background-color: var(--alto);
+  border-radius: 3px;
+  height: 44px;
+  margin-bottom: -19.00px;
+  margin-top: -19.00px;
+  min-width: 6px;
+  position: relative;
+  transform: rotate(90deg);
+}
+

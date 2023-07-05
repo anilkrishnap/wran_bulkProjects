@@ -1,0 +1,41 @@
+.lable,
+.lable-1,
+.lable-2,
+.lable-3,
+.lable-4,
+.lable-5,
+.lable-6,
+.lable-7,
+.lable-8,
+.lable-9,
+.lable-10,
+.lable-11,
+.lable-12,
+.lable-13 {
+  align-items: flex-end;
+  display: flex;
+  position: relative;
+  width: 69.14px;
+}
+
+.label-236,
+.label-237,
+.label-238,
+.label-239,
+.label-240,
+.label-241,
+.label-242,
+.label-243,
+.label-244,
+.label-245,
+.label-246,
+.label-247,
+.label-248,
+.label-249 {
+  letter-spacing: 0;
+  line-height: 13.2px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+

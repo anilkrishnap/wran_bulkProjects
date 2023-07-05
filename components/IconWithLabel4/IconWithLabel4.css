@@ -1,0 +1,40 @@
+.icon-with-label-36 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  position: relative;
+  width: fit-content;
+}
+
+.localwarning-icon {
+  background-color: var(--yellow-orange);
+  border-radius: 9.5px/9px;
+  height: 18px;
+  min-width: 19px;
+  position: relative;
+}
+
+.group-107 {
+  align-items: flex-start;
+  display: flex;
+  height: 12px;
+  justify-content: center;
+  left: 3px;
+  min-width: 13px;
+  position: relative;
+  top: 3px;
+}
+
+.valid-projects-36 {
+  letter-spacing: 0;
+  line-height: 14.5px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.icon-with-label-36.icon-with-label-38 .group-107 {
+  justify-content: unset;
+  padding: 0 0.0px;
+}
+

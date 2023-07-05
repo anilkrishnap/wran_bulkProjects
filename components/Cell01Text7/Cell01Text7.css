@@ -1,0 +1,50 @@
+.cell-01-text,
+.cell-01-text-1,
+.cell-01-text-2,
+.cell-01-text-3,
+.cell-01-text-4,
+.cell-01-text-5,
+.cell-01-text-6,
+.cell-01-text-7,
+.cell-01-text-8 {
+  align-items: flex-start;
+  display: flex;
+  /* flex: 1; */
+  flex-direction: column;
+  gap: 10px;
+  height: 25px;
+  padding: 3px 87px 3px 0px;
+  position: relative;
+}
+
+.group-470,
+.group-470-1,
+.group-470-2,
+.group-470-3,
+.group-470-4,
+.group-470-5,
+.group-470-6,
+.group-470-7,
+.group-470-8 {
+  height: 18px;
+  margin-right: -9.33px;
+  min-width: 19px;
+  position: relative;
+}
+
+.group-469,
+.group-469-1,
+.group-469-2,
+.group-469-3,
+.group-469-4,
+.group-469-5,
+.group-469-6,
+.group-469-7,
+.group-469-8 {
+  align-items: flex-start;
+  display: flex;
+  height: 18px;
+  min-width: 19px;
+  position: relative;
+}
+

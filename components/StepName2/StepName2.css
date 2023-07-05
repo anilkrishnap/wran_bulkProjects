@@ -1,0 +1,55 @@
+.step-name-64,
+.step-name-66,
+.step-name-68,
+.step-name-70,
+.step-name-72,
+.step-name-74,
+.step-name-76,
+.step-name-78,
+.step-name-80,
+.step-name-82,
+.step-name-84,
+.step-name-86,
+.step-name-88,
+.step-name-90,
+.step-name-92,
+.step-name-94,
+.step-name-96,
+.step-name-98,
+.step-name-100,
+.step-name-102 {
+  align-items: flex-start;
+  display: flex;
+  gap: 10px;
+  position: relative;
+  width: fit-content;
+}
+
+.step-name-65,
+.step-name-67,
+.step-name-69,
+.step-name-71,
+.step-name-73,
+.step-name-75,
+.step-name-77,
+.step-name-79,
+.step-name-81,
+.step-name-83,
+.step-name-85,
+.step-name-87,
+.step-name-89,
+.step-name-91,
+.step-name-93,
+.step-name-95,
+.step-name-97,
+.step-name-99,
+.step-name-101,
+.step-name-103 {
+  letter-spacing: 0;
+  line-height: 19px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+

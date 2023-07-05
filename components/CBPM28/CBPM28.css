@@ -1,0 +1,250 @@
+.cbpm-28 {
+  align-items: flex-start;
+  background-color: var(--white-lilac);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 763px;
+  width: 1024px;
+}
+
+.overlap-group2 {
+  height: 87px;
+  position: relative;
+  width: 1024px;
+}
+
+.global-header {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: fit-content;
+}
+
+.global-header-1 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 10px 20px;
+  position: relative;
+  width: fit-content;
+}
+
+.frame-3 {
+  align-items: flex-start;
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+  width: 983.84px;
+}
+
+.global-search-icons {
+  align-items: center;
+  display: flex;
+  gap: 20px;
+  position: relative;
+  width: fit-content;
+}
+
+.icon {
+  height: 24px;
+  min-width: 24px;
+  position: relative;
+}
+
+.group {
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  justify-content: center;
+  left: 1px;
+  min-height: 23px;
+  position: relative;
+  width: 23px;
+}
+
+.shape {
+  height: 18px;
+  width: 23px;
+}
+
+.path {
+  height: 3px;
+  margin-left: 0;
+  width: 6px;
+}
+
+.download {
+  height: 28.08px;
+  min-width: 24px;
+  position: relative;
+}
+
+.atomsavatardefault {
+  background-image: url(/static/img/combined-shape.svg);
+  background-size: 100% 100%;
+  height: 24px;
+  min-width: 24px;
+  position: relative;
+}
+
+.badge-indication {
+  align-items: center;
+  background-color: var(--thunderbird);
+  border-radius: 22px;
+  display: flex;
+  flex-direction: column;
+  height: 25px;
+  justify-content: center;
+  left: 861px;
+  position: absolute;
+  top: 0;
+  width: 25px;
+}
+
+.x1 {
+  color: var(--white);
+  font-family: var(--font-family-neue_haas_grotesk_display_std-bold);
+  font-size: var(--font-size-s);
+  font-weight: 700;
+  height: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: 25px;
+}
+
+.overlap-group3 {
+  height: 348px;
+  position: relative;
+  width: 1024px;
+}
+
+.link-widget {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  left: 10px;
+  padding: 10px;
+  position: absolute;
+  top: 10px;
+  width: 496px;
+}
+
+.frame-27 {
+  align-items: center;
+  display: flex;
+  gap: 190px;
+  position: relative;
+  width: fit-content;
+}
+
+.link {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  padding: 20px 0px 50px;
+  position: relative;
+  width: 44px;
+}
+
+.tree-menu {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  height: 24px;
+  justify-content: center;
+  margin-right: -112.00px;
+  position: relative;
+  width: 156px;
+}
+
+.user-interaction {
+  align-items: flex-start;
+  display: flex;
+  height: 32px;
+  justify-content: flex-end;
+  left: 370px;
+  min-width: 32px;
+  position: absolute;
+  top: 150px;
+}
+
+.click {
+  height: 40px;
+  margin-top: -2.62px;
+  width: 32px;
+}
+
+.alerts {
+  align-items: center;
+  background-color: var(--deep-cerulean);
+  display: flex;
+  gap: 20px;
+  left: 0;
+  padding: 15px;
+  position: absolute;
+  top: 0;
+  width: fit-content;
+}
+
+.group-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 23px;
+  min-width: 23px;
+  padding: 0 0.0px;
+}
+
+.group-2 {
+  align-items: flex-end;
+  background-image: url(/static/img/shape-166.svg);
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  margin-top: 0;
+  min-height: 23px;
+  padding: 5.6px 10.4px;
+  width: 23px;
+}
+
+.rectangle {
+  background-color: var(--white);
+  height: 2px;
+  width: 2px;
+}
+
+.rectangle-1 {
+  background-color: var(--white);
+  height: 8px;
+  width: 2px;
+}
+
+.project-23324823948-y {
+  letter-spacing: 0;
+  line-height: 14.5px;
+  position: relative;
+  white-space: nowrap;
+  width: 920px;
+}
+
+.icon-1 {
+  height: 10px;
+  min-width: 10px;
+  position: relative;
+}
+

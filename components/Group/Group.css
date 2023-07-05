@@ -1,0 +1,64 @@
+.group-123 {
+  align-items: flex-end;
+  background-image: url(/static/img/shape-5.svg);
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  margin-top: 0;
+  min-height: 12px;
+  padding: 3.0px 5.8px;
+  width: 13px;
+}
+
+.path-205 {
+  align-self: center;
+  height: 4px;
+  margin-left: 0;
+  width: 1px;
+}
+
+.rectangle-92 {
+  background-color: var(--black);
+  height: 1px;
+  width: 1px;
+}
+
+.group-123.group-124,
+.group-123.group-126,
+.group-123.group-128,
+.group-123.group-117,
+.group-123.group-133,
+.group-123.group-135,
+.group-123.group-137 {
+  background-image: url(/static/img/shape-9.svg);
+  margin-top: unset;
+}
+
+.group-123.group-127 {
+  background-image: url(/static/img/shape-69.svg);
+}
+
+.group-123.group-129 {
+  background-image: url(/static/img/shape-79.svg);
+}
+
+.group-123.group-121,
+.group-123.group-109 {
+  background-image: url(/static/img/shape-82.svg);
+  margin-top: unset;
+}
+
+.group-123.group-122,
+.group-123.group-116 {
+  background-image: url(/static/img/shape-86.svg);
+  margin-top: unset;
+}
+
+.group-123.group-118,
+.group-123.group-119,
+.group-123.group-120 {
+  background-image: url(/static/img/shape-115.svg);
+  margin-top: unset;
+}
+

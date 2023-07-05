@@ -1,0 +1,106 @@
+.user-interaction-2 {
+  align-items: flex-end;
+  display: flex;
+  height: 32px;
+  justify-content: flex-end;
+  left: 41px;
+  min-width: 32px;
+  position: absolute;
+  top: 408px;
+  transform: rotate(-180deg);
+}
+
+.overlap-group-71 {
+  align-items: flex-end;
+  background-image: url(/static/img/click.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 40px;
+  margin-bottom: -3.62px;
+  min-width: 32px;
+  padding: 5.6px 0.1px;
+  transform: rotate(180deg);
+}
+
+.click-16 {
+  -webkit-text-stroke: 2px var(--white);
+  letter-spacing: 0;
+  line-height: 11px;
+  min-width: 29px;
+  text-align: center;
+  white-space: nowrap;
+  display: none;
+}
+
+.user-interaction-2.user-interaction-3 {
+  left: 180px;
+  top: 219px;
+}
+
+.user-interaction-2.user-interaction-3 .overlap-group-71 {
+  background-image: url(/static/img/click-3.svg);
+}
+
+.user-interaction-2.user-interaction-4 {
+  left: 491px;
+  top: 906px;
+}
+
+.user-interaction-2.user-interaction-4 .overlap-group-71 {
+  background-image: url(/static/img/click-6.svg);
+}
+
+.user-interaction-2.user-interaction-5 {
+  left: 397px;
+  top: 534px;
+}
+
+.user-interaction-2.user-interaction-5 .overlap-group-71 {
+  background-image: url(/static/img/click-7.svg);
+}
+
+.user-interaction-2.user-interaction-6 {
+  left: 17px;
+  top: 449px;
+}
+
+.user-interaction-2.user-interaction-6 .overlap-group-71 {
+  background-image: url(/static/img/click-8.svg);
+}
+
+.user-interaction-2.user-interaction-7 {
+  left: 32px;
+  top: 404px;
+}
+
+.user-interaction-2.user-interaction-7 .overlap-group-71 {
+  background-image: url(/static/img/click-9.svg);
+}
+
+.user-interaction-2.user-interaction-8 {
+  left: 399px;
+  top: 534px;
+}
+
+.user-interaction-2.user-interaction-8 .overlap-group-71 {
+  background-image: url(/static/img/click-10.svg);
+}
+
+.user-interaction-2.user-interaction-9 {
+  left: 35px;
+  top: 406px;
+}
+
+.user-interaction-2.user-interaction-9 .overlap-group-71 {
+  background-image: url(/static/img/click-11.svg);
+}
+
+.user-interaction-2.user-interaction-10 {
+  left: 62px;
+  top: 406px;
+}
+
+.user-interaction-2.user-interaction-10 .overlap-group-71 {
+  background-image: url(/static/img/click-12.svg);
+}
+

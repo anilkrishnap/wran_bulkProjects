@@ -1,0 +1,123 @@
+.go-to,
+.go-to-1,
+.go-to-2,
+.go-to-3,
+.go-to-4,
+.go-to-5,
+.go-to-6,
+.go-to-7,
+.go-to-8,
+.go-to-9,
+.go-to-10,
+.go-to-11 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  position: relative;
+  width: fit-content;
+}
+
+.input-fields-50,
+.input-fields-51,
+.input-fields-52,
+.input-fields-53,
+.input-fields-54,
+.input-fields-55,
+.input-fields-56,
+.input-fields-57,
+.input-fields-58,
+.input-fields-59,
+.input-fields-60,
+.input-fields-61 {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--alto);
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  height: 29px;
+  padding: 7px 0px 0px;
+  position: relative;
+  width: fit-content;
+}
+
+.page-number-24,
+.page-number-25,
+.page-number-26,
+.page-number-27,
+.page-number-28,
+.page-number-29,
+.page-number-30,
+.page-number-31,
+.page-number-32,
+.page-number-33,
+.page-number-34,
+.page-number-35 {
+  align-items: flex-start;
+  display: flex;
+  gap: 10px;
+  padding: 0px 10px;
+  position: relative;
+  width: fit-content;
+}
+
+.placeholder-text-120,
+.placeholder-text-121,
+.placeholder-text-122,
+.placeholder-text-123,
+.placeholder-text-124,
+.placeholder-text-125,
+.placeholder-text-126,
+.placeholder-text-127,
+.placeholder-text-128,
+.placeholder-text-129,
+.placeholder-text-130,
+.placeholder-text-131 {
+  letter-spacing: 0;
+  line-height: 16.8px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.divider-99,
+.divider-100,
+.divider-101,
+.divider-102,
+.divider-103,
+.divider-104,
+.divider-105,
+.divider-106,
+.divider-107,
+.divider-108,
+.divider-109,
+.divider-110 {
+  align-self: stretch;
+  background-color: var(--black);
+  height: 1px;
+  margin-bottom: -2.00px;
+  min-width: 28px;
+  position: relative;
+}
+
+.text-13,
+.text-22,
+.text-43,
+.text-44,
+.text-45,
+.text-46,
+.text-47,
+.text-48,
+.text-49,
+.text-50,
+.text-51,
+.text-52 {
+  letter-spacing: 0;
+  line-height: 16.8px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+

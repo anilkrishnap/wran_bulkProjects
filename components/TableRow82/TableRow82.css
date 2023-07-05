@@ -1,0 +1,39 @@
+.table-row-20,
+.table-row-21 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+}
+
+.inputs-81,
+.inputs-82 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  gap: 10px;
+  padding: 7px 10px;
+  position: relative;
+}
+
+.row-data-62,
+.row-data-63 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  gap: 10px;
+  position: relative;
+}
+
+.divider-298,
+.divider-299 {
+  align-self: stretch;
+  background-color: var(--alto);
+  height: 1px;
+  min-width: 1000px;
+  position: relative;
+}
+

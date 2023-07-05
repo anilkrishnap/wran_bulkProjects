@@ -1,0 +1,44 @@
+.table-action-7,
+.table-action-8,
+.table-action-9,
+.table-action-10,
+.table-action-11,
+.table-action-12,
+.table-action-13,
+.table-action-14 {
+  align-items: center;
+  display: flex;
+  gap: 5px;
+  position: relative;
+  width: fit-content;
+}
+
+.icon-113,
+.icon-114,
+.icon-115,
+.icon-116,
+.icon-117,
+.icon-118,
+.icon-119,
+.icon-120 {
+  height: 18px;
+  min-width: 18px;
+  position: relative;
+}
+
+.action-7,
+.action-8,
+.action-9,
+.action-10,
+.action-11,
+.action-12,
+.action-13,
+.action-14 {
+  letter-spacing: 0;
+  line-height: 16.8px;
+  margin-top: -0.50px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+

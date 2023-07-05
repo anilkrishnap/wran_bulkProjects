@@ -1,0 +1,41 @@
+.heading-8,
+.heading-8.heading,
+.heading-8.heading-4 {
+  height: 39px;
+  margin-right: -4.00px;
+  min-width: 1000px;
+  position: relative;
+}
+
+.heading-9 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  gap: 9px;
+  min-height: 39px;
+  width: 1000px;
+}
+
+.placeholder-text-36 {
+  letter-spacing: 0;
+  line-height: 19px;
+  margin-left: 10px;
+  margin-top: 10px;
+  white-space: nowrap;
+}
+
+.atomsdividersline2-pxblack-5 {
+  height: 1px;
+  width: 1000px;
+}
+
+.heading-8.heading-10,
+.heading-8.heading-12 {
+  margin-top: -5.00px;
+}
+
+.heading-8.heading-7 {
+  margin-right: unset;
+}
+

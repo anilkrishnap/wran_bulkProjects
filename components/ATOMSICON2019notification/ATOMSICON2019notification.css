@@ -1,0 +1,56 @@
+.atomsicon2019notification {
+  height: 24px;
+  min-width: 24px;
+  position: relative;
+}
+
+.group-12 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  justify-content: center;
+  left: 1px;
+  min-height: 23px;
+  position: relative;
+  width: 23px;
+}
+
+.shape-57 {
+  height: 18px;
+  width: 23px;
+}
+
+.path-141 {
+  height: 3px;
+  width: 6px;
+}
+
+.atomsicon2019notification.atomsicon2019notification-2 .path-141,
+.atomsicon2019notification.atomsicon2019notification-13 .path-141,
+.atomsicon2019notification.atomsicon2019notification-20 .path-141 {
+  margin-left: 0;
+}
+
+.atomsicon2019notification.atomsicon2019notification-12 .group-12,
+.atomsicon2019notification.atomsicon2019notification-13 .group-12,
+.atomsicon2019notification.atomsicon2019notification-14 .group-12,
+.atomsicon2019notification.atomsicon2019notification-15 .group-12,
+.atomsicon2019notification.atomsicon2019notification-16 .group-12,
+.atomsicon2019notification.atomsicon2019notification-17 .group-12,
+.atomsicon2019notification.atomsicon2019notification-18 .group-12,
+.atomsicon2019notification.atomsicon2019notification-19 .group-12,
+.atomsicon2019notification.atomsicon2019notification-20 .group-12,
+.atomsicon2019notification.atomsicon2019notification-21 .group-12,
+.atomsicon2019notification.atomsicon2019notification-22 .group-12,
+.atomsicon2019notification.atomsicon2019notification-23 .group-12,
+.atomsicon2019notification.atomsicon2019notification-24 .group-12,
+.atomsicon2019notification.atomsicon2019notification-25 .group-12,
+.atomsicon2019notification.atomsicon2019notification-26 .group-12 {
+  justify-content: unset;
+}
+
+.atomsicon2019notification.atomsicon2019notification-15 .path-141 {
+  margin-right: 0;
+}
+

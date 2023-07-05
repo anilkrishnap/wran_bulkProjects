@@ -1,0 +1,71 @@
+.local-status-card-4,
+.local-status-card-5,
+.local-status-card-6,
+.local-status-card-7,
+.local-status-card-8,
+.local-status-card-9,
+.local-status-card-10,
+.local-status-card-11,
+.local-status-card-12 {
+  align-items: center;
+  background-color: var(--white);
+  box-shadow: 0px 1px 6px #00000040;
+  display: flex;
+  flex-direction: column;
+  gap: 33px;
+  height: 100px;
+  padding: 9px 22px;
+  position: relative;
+  width: 160px;
+}
+
+.x490-4,
+.x490-5,
+.x490-6,
+.x490-7,
+.x490-8,
+.x490-9,
+.x490-10,
+.x490-11,
+.x490-12 {
+  letter-spacing: 0;
+  line-height: 30.4px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.icon-with-label,
+.icon-with-label-1,
+.icon-with-label-2,
+.icon-with-label-3,
+.icon-with-label-4,
+.icon-with-label-5,
+.icon-with-label-6,
+.icon-with-label-7,
+.icon-with-label-8 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  position: relative;
+  width: fit-content;
+}
+
+.valid-projects,
+.valid-projects-1,
+.valid-projects-2,
+.valid-projects-3,
+.valid-projects-4,
+.valid-projects-5,
+.valid-projects-6,
+.valid-projects-7,
+.valid-projects-8 {
+  letter-spacing: 0;
+  line-height: 14.5px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+

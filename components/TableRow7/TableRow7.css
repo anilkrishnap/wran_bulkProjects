@@ -1,0 +1,53 @@
+.table-row-7-1,
+.table-row-7-2,
+.table-row-7-3,
+.table-row-9,
+.table-row-10,
+.table-row-7-4 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+}
+
+.inputs-46,
+.inputs-47,
+.inputs-48,
+.inputs-44,
+.inputs-45,
+.inputs-49 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  gap: 10px;
+  padding: 7px 10px;
+  position: relative;
+}
+
+.checkbox-31,
+.checkbox-32,
+.checkbox-33,
+.checkbox-29,
+.checkbox-30,
+.checkbox-34 {
+  height: 20px;
+  min-width: 20px;
+  position: relative;
+}
+
+.divider-231,
+.divider-232,
+.divider-233,
+.divider-229,
+.divider-230,
+.divider-234 {
+  align-self: stretch;
+  background-color: var(--alto);
+  height: 1px;
+  min-width: 1000px;
+  position: relative;
+}
+

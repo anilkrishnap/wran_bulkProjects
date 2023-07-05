@@ -1,0 +1,86 @@
+.cell-01-text-14,
+.cell-01-text-15,
+.cell-01-text-16,
+.cell-01-text-9,
+.cell-01-text-10,
+.cell-01-text-11,
+.cell-01-text-12,
+.cell-01-text-13,
+.cell-01-text-17 {
+  align-items: flex-start;
+  display: flex;
+  /* flex: 1; */
+  flex-direction: column;
+  gap: 10px;
+  height: 25px;
+  padding: 3px 55px 3px 0px;
+  position: relative;
+}
+
+.group-470-14,
+.group-470-15,
+.group-470-16,
+.group-470-9,
+.group-470-10,
+.group-470-11,
+.group-470-12,
+.group-470-13,
+.group-470-17 {
+  height: 18px;
+  margin-right: -9.33px;
+  min-width: 51px;
+  position: relative;
+}
+
+.group-469-14,
+.group-469-15,
+.group-469-16,
+.group-469-9,
+.group-469-10,
+.group-469-11,
+.group-469-12,
+.group-469-13,
+.group-469-17 {
+  align-items: center;
+  display: flex;
+  gap: 2px;
+  min-width: 53px;
+}
+
+.localwarning-icon-14,
+.localwarning-icon-15,
+.localwarning-icon-16,
+.localwarning-icon-9,
+.localwarning-icon-10,
+.localwarning-icon-11,
+.localwarning-icon-12,
+.localwarning-icon-13,
+.localwarning-icon-17 {
+  align-items: flex-end;
+  background-color: var(--yellow-orange);
+  border-radius: 9.5px/9px;
+  display: flex;
+  height: 18px;
+  justify-content: flex-end;
+  min-width: 19px;
+  padding: 2.8px 3.0px;
+  position: relative;
+}
+
+.label-312,
+.label-313,
+.label-314,
+.label-307,
+.label-308,
+.label-309,
+.label-310,
+.label-311,
+.label-315 {
+  letter-spacing: 0;
+  line-height: 14.5px;
+  margin-top: 1.0px;
+  min-height: 15px;
+  white-space: nowrap;
+  width: 30px;
+}
+

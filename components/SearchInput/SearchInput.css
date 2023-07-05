@@ -1,0 +1,46 @@
+.search-input,
+.search-input-1,
+.search-input-2,
+.search-input-3,
+.search-input-4,
+.search-input-5,
+.search-input-6,
+.search-input-7,
+.search-input-8,
+.search-input-9,
+.search-input-10,
+.search-input-11,
+.search-input-12 {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--alto);
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+  height: 30px;
+  padding: 7px 0px 0px;
+  position: relative;
+  width: 150px;
+}
+
+.elements-88,
+.elements-89,
+.elements-90,
+.elements-91,
+.elements-92,
+.elements-93,
+.elements-94,
+.elements-95,
+.elements-96,
+.elements-97,
+.elements-98,
+.elements-99,
+.elements-100 {
+  align-self: stretch;
+  background-color: var(--black);
+  height: 1px;
+  min-width: 150px;
+  position: relative;
+}
+

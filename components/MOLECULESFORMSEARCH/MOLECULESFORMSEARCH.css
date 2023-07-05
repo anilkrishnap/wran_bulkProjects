@@ -1,0 +1,182 @@
+.moleculesformsearch,
+.moleculesformsearch-1,
+.moleculesformsearch-2,
+.moleculesformsearch-3,
+.moleculesformsearch-4,
+.moleculesformsearch-5,
+.moleculesformsearch-6,
+.moleculesformsearch-7,
+.moleculesformsearch-8,
+.moleculesformsearch-9,
+.moleculesformsearch-10,
+.moleculesformsearch-11,
+.moleculesformsearch-12,
+.moleculesformsearch-13,
+.moleculesformsearch-14,
+.moleculesformsearch-15,
+.moleculesformsearch-16,
+.moleculesformsearch-17,
+.moleculesformsearch-18,
+.moleculesformsearch-19,
+.moleculesformsearch-20,
+.moleculesformsearch-21,
+.moleculesformsearch-22,
+.moleculesformsearch-23,
+.moleculesformsearch-24,
+.moleculesformsearch-25,
+.moleculesformsearch-26,
+.moleculesformsearch-27 {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--alto);
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+  height: 30px;
+  padding: 7px 0px 0px;
+  position: relative;
+  width: 223px;
+}
+
+.frame-18,
+.frame-18-1,
+.frame-18-2,
+.frame-18-3,
+.frame-18-4,
+.frame-18-5,
+.frame-18-6,
+.frame-18-7,
+.frame-18-8,
+.frame-18-9,
+.frame-18-10,
+.frame-18-11,
+.frame-18-12,
+.frame-18-13,
+.frame-18-14,
+.frame-18-15,
+.frame-18-16,
+.frame-18-17,
+.frame-18-18,
+.frame-18-19,
+.frame-18-20,
+.frame-18-21,
+.frame-18-22,
+.frame-18-23,
+.frame-18-24,
+.frame-18-25,
+.frame-18-26,
+.frame-18-27 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  gap: 20px;
+  padding: 0px 10px;
+  position: relative;
+}
+
+.frame-32,
+.frame-32-1,
+.frame-32-2,
+.frame-32-3,
+.frame-32-4,
+.frame-32-5,
+.frame-32-6,
+.frame-32-7,
+.frame-32-8,
+.frame-32-9,
+.frame-32-10,
+.frame-32-11,
+.frame-32-12,
+.frame-32-13,
+.frame-32-14,
+.frame-32-15,
+.frame-32-16,
+.frame-32-17,
+.frame-32-18,
+.frame-32-19,
+.frame-32-20,
+.frame-32-21,
+.frame-32-22,
+.frame-32-23,
+.frame-32-24,
+.frame-32-25,
+.frame-32-26,
+.frame-32-27 {
+  flex: 1;
+  height: 15px;
+  min-width: 171px;
+  position: relative;
+}
+
+.placeholder-text,
+.placeholder-text-1,
+.placeholder-text-2,
+.placeholder-text-3,
+.placeholder-text-4,
+.placeholder-text-5,
+.placeholder-text-6,
+.placeholder-text-7,
+.placeholder-text-8,
+.placeholder-text-9,
+.placeholder-text-10,
+.placeholder-text-11,
+.placeholder-text-12,
+.placeholder-text-13,
+.placeholder-text-14,
+.placeholder-text-15,
+.placeholder-text-16,
+.placeholder-text-17,
+.placeholder-text-18,
+.placeholder-text-19,
+.placeholder-text-20,
+.placeholder-text-21,
+.placeholder-text-22,
+.placeholder-text-23,
+.placeholder-text-24,
+.placeholder-text-25,
+.placeholder-text-26,
+.placeholder-text-27 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 14.5px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.elements,
+.elements-1,
+.elements-2,
+.elements-3,
+.elements-4,
+.elements-5,
+.elements-6,
+.elements-7,
+.elements-8,
+.elements-9,
+.elements-10,
+.elements-11,
+.elements-12,
+.elements-13,
+.elements-14,
+.elements-15,
+.elements-16,
+.elements-17,
+.elements-18,
+.elements-19,
+.elements-20,
+.elements-21,
+.elements-22,
+.elements-23,
+.elements-24,
+.elements-25,
+.elements-26,
+.elements-27 {
+  align-self: stretch;
+  background-color: var(--black);
+  height: 1px;
+  min-width: 223px;
+  position: relative;
+}
+

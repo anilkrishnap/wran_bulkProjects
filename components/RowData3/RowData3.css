@@ -1,0 +1,60 @@
+.row-data-32,
+.row-data-33,
+.row-data-34,
+.row-data-29,
+.row-data-30,
+.row-data-31,
+.row-data-35 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  gap: 10px;
+  position: relative;
+}
+
+.table-10,
+.table-11,
+.table-12,
+.table-7,
+.table-8,
+.table-9,
+.table-13 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  gap: 5px;
+  position: relative;
+}
+
+.text-icon-20,
+.text-icon-21,
+.text-icon-22,
+.text-icon-17,
+.text-icon-18,
+.text-icon-19,
+.text-icon-23 {
+  align-items: center;
+  border: 2px solid;
+  border-color: var(--grandis);
+  display: flex;
+  gap: 5px;
+  padding: 5px 10px;
+  position: relative;
+  width: fit-content;
+}
+
+.label-303,
+.label-304,
+.label-305,
+.label-300,
+.label-301,
+.label-302,
+.label-306 {
+  letter-spacing: 0;
+  line-height: 14.5px;
+  margin-top: -2.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+

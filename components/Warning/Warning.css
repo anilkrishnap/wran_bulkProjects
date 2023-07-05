@@ -1,0 +1,50 @@
+.warning,
+.group-469-20,
+.group-469-21,
+.warning-1,
+.group-469-22,
+.group-469-23,
+.warning-2,
+.group-469-24,
+.group-469-25,
+.group-469-18,
+.group-469-19 {
+  align-items: center;
+  display: flex;
+  gap: 2px;
+  height: 18px;
+  left: 55px;
+  min-width: 53px;
+  position: absolute;
+  top: 0;
+}
+
+.localwarning-icon-22,
+.localwarning-icon-23,
+.localwarning-icon-24,
+.localwarning-icon-25,
+.localwarning-icon-26 {
+  align-items: flex-end;
+  background-color: var(--yellow-orange);
+  border-radius: 9.5px/9px;
+  display: flex;
+  height: 18px;
+  justify-content: flex-end;
+  min-width: 19px;
+  padding: 2.8px 3.0px;
+  position: relative;
+}
+
+.label-336,
+.label-337,
+.label-338,
+.label-339,
+.label-340 {
+  letter-spacing: 0;
+  line-height: 14.5px;
+  margin-top: 1.0px;
+  min-height: 15px;
+  white-space: nowrap;
+  width: 30px;
+}
+

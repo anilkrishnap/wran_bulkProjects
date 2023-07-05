@@ -1,0 +1,39 @@
+.required,
+.required-1,
+.required-2,
+.required-3,
+.required-4,
+.required-5,
+.required-6,
+.required-7,
+.required-8,
+.required-9,
+.required-10,
+.required-11 {
+  height: 18px;
+  min-width: 10px;
+  position: relative;
+}
+
+.text,
+.text-1,
+.text-2,
+.text-1-1,
+.text-1-2,
+.text-3,
+.text-2-1,
+.text-2-2,
+.text-4,
+.text-3-1,
+.text-3-2,
+.text-5 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  white-space: nowrap;
+  width: 10px;
+}
+

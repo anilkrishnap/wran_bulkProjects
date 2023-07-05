@@ -1,0 +1,32 @@
+.error,
+.error.group-468-3,
+.error.group-468-5 {
+  align-items: center;
+  display: flex;
+  gap: 2px;
+  height: 18px;
+  left: 0;
+  min-width: 53px;
+  position: absolute;
+  top: 0;
+}
+
+.label-331 {
+  letter-spacing: 0;
+  line-height: 14.5px;
+  margin-top: 1.0px;
+  min-height: 15px;
+  white-space: nowrap;
+  width: 30px;
+}
+
+.error.group-468,
+.error.group-468-1,
+.error.group-468-2,
+.error.group-468-4,
+.error.group-468-6 {
+  left: unset;
+  position: relative;
+  top: unset;
+}
+

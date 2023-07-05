@@ -1,0 +1,16 @@
+.menu-item-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.divider-186 {
+  align-self: stretch;
+  background-color: var(--alto);
+  height: 1px;
+  min-width: 247px;
+  position: relative;
+}
+

@@ -1,0 +1,44 @@
+.action-bar-14 {
+  align-self: stretch;
+  background-color: var(--white);
+  height: 40px;
+  min-width: 1000px;
+  position: relative;
+}
+
+.overlap-group1-45 {
+  height: 41px;
+  left: -1px;
+  position: relative;
+  width: 1002px;
+}
+
+.action-bar-items-14 {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  left: 1px;
+  padding: 6px 10px 5px;
+  position: absolute;
+  top: 0;
+  width: 1000px;
+}
+
+.action-menu-14 {
+  align-items: flex-start;
+  display: flex;
+  gap: 10px;
+  position: relative;
+  width: fit-content;
+}
+
+.divider-291 {
+  background-color: var(--black);
+  border: 0px none;
+  height: 3px;
+  left: 0;
+  position: absolute;
+  top: 38px;
+  width: 1002px;
+}
+

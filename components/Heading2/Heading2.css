@@ -1,0 +1,32 @@
+.heading-15,
+.heading-15.heading-11 {
+  height: 39px;
+  margin-right: -4.00px;
+  min-width: 1000px;
+  position: relative;
+}
+
+.heading-16 {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  height: 39px;
+  min-width: 1000px;
+  padding: 0 10px;
+}
+
+.placeholder-text-44 {
+  letter-spacing: 0;
+  line-height: 19px;
+  min-width: 145px;
+  white-space: nowrap;
+}
+
+.heading-15.heading-11-1 .placeholder-text-44 {
+  min-width: 133px;
+}
+
+.heading-15.heading-11 .placeholder-text-44 {
+  min-width: 182px;
+}
+

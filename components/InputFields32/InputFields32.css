@@ -1,0 +1,41 @@
+.input-fields-536 {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--alto);
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 7px;
+  height: 30px;
+  padding: 7px 0px 0px;
+  position: relative;
+}
+
+.frame-18-81 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 10px;
+  padding: 0px 73px 0px 10px;
+  position: relative;
+}
+
+.placeholder-text-233 {
+  letter-spacing: 0;
+  line-height: 14.5px;
+  margin-right: -23.50px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.divider-256 {
+  align-self: stretch;
+  background-color: var(--black);
+  height: 1px;
+  min-width: 92.5px;
+  position: relative;
+}
+

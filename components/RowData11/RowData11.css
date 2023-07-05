@@ -1,0 +1,81 @@
+.row-data-13,
+.row-data-14,
+.row-data-15,
+.row-data-16,
+.row-data-17,
+.row-data-18,
+.row-data-19,
+.row-data-20,
+.row-data-21 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  gap: 10px;
+  position: relative;
+}
+
+.column-header-6,
+.column-header-7,
+.column-header-8,
+.column-header-9,
+.column-header-10,
+.column-header-11,
+.column-header-12,
+.column-header-13,
+.column-header-14 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  gap: 10px;
+  padding: 0px 10px;
+  position: relative;
+}
+
+.text-32,
+.text-33,
+.text-34,
+.text-35,
+.text-36,
+.text-37,
+.text-38,
+.text-39,
+.text-40 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  padding: 5px 0px;
+  position: relative;
+  width: fit-content;
+}
+
+.label-250,
+.label-251,
+.label-252,
+.label-253,
+.label-254,
+.label-255,
+.label-256,
+.label-257,
+.label-258 {
+  letter-spacing: 0;
+  line-height: 14.5px;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.descending,
+.descending-1,
+.descending-2,
+.descending-3,
+.descending-4,
+.descending-5,
+.descending-6,
+.descending-7,
+.descending-8 {
+  height: 20px;
+  margin-right: -13.33px;
+  min-width: 20px;
+  position: relative;
+}
+

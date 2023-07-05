@@ -1,0 +1,112 @@
+.input-fields-541 {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--alto);
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 3px;
+  height: 25px;
+  padding: 7px 0px 0px;
+  position: relative;
+}
+
+.elements-110 {
+  align-self: stretch;
+  background-color: var(--black);
+  height: 1px;
+  margin-bottom: -1.00px;
+  min-width: 96.67px;
+  position: relative;
+}
+
+.input-fields-541.input-fields-542,
+.input-fields-541.input-fields-542-1,
+.input-fields-541.input-fields-542-2,
+.input-fields-541.input-fields-542-3,
+.input-fields-541.input-fields-542-4,
+.input-fields-541.input-fields-542-5,
+.input-fields-541.input-fields-542-6,
+.input-fields-541.input-fields-542-7,
+.input-fields-541.input-fields-544,
+.input-fields-541.input-fields-544-1,
+.input-fields-541.input-fields-544-2,
+.input-fields-541.input-fields-544-3,
+.input-fields-541.input-fields-544-4,
+.input-fields-541.input-fields-544-5,
+.input-fields-541.input-fields-544-6,
+.input-fields-541.input-fields-544-7,
+.input-fields-541.input-fields-544-8 {
+  border-color: var(--clementine);
+  gap: 2px;
+}
+
+.input-fields-541.input-fields-542-1 .elements-110,
+.input-fields-541.input-fields-544-1 .elements-110,
+.input-fields-541.input-fields-542-2 .elements-110,
+.input-fields-541.input-fields-542-4 .elements-110,
+.input-fields-541.input-fields-542-5 .elements-110,
+.input-fields-541.input-fields-542-6 .elements-110,
+.input-fields-541.input-fields-544-2 .elements-110,
+.input-fields-541.input-fields-544-3 .elements-110,
+.input-fields-541.input-fields-544-5 .elements-110,
+.input-fields-541.input-fields-544-6 .elements-110,
+.input-fields-541.input-fields-544-7 .elements-110 {
+  background-color: var(--clementine);
+  height: 4px;
+  margin-bottom: -3.00px;
+}
+
+.input-fields-541.input-fields-542-3 .elements-110,
+.input-fields-541.input-fields-544-4 .elements-110,
+.input-fields-541.input-fields-542-7 .elements-110,
+.input-fields-541.input-fields-542 .elements-110,
+.input-fields-541.input-fields-544-8 .elements-110,
+.input-fields-541.input-fields-544 .elements-110 {
+  background-color: var(--yellow-orange);
+  height: 4px;
+  margin-bottom: -3.00px;
+}
+
+.input-fields-541.input-fields-545,
+.input-fields-541.input-fields-547 {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--clementine);
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 3px;
+  height: 25px;
+  padding: 7px 0px 0px;
+  position: relative;
+}
+
+.input-fields-541.input-fields-545 .elements-110,
+.input-fields-541.input-fields-547 .elements-110 {
+  background-color: var(--clementine);
+  height: 4px;
+  margin-bottom: -4.00px;
+}
+
+.input-fields-541.input-fields-546,
+.input-fields-541.input-fields-548 {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--alto);
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 3px;
+  padding: 7px 0px 0px;
+  position: relative;
+}
+
+.input-fields-541.input-fields-546 .elements-110,
+.input-fields-541.input-fields-548 .elements-110 {
+  margin-bottom: unset;
+}
+

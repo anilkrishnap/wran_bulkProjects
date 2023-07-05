@@ -1,0 +1,73 @@
+.frame-18-46,
+.frame-18-47,
+.frame-18-48,
+.frame-18-49,
+.frame-18-50,
+.frame-18-51,
+.frame-18-52,
+.frame-18-53,
+.frame-18-54,
+.frame-18-55,
+.frame-18-56,
+.frame-18-57,
+.frame-18-58,
+.frame-18-59,
+.frame-18-60,
+.frame-18-61,
+.frame-18-62 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  gap: 20px;
+  padding: 0px 10px;
+  position: relative;
+}
+
+.frame-32-35,
+.frame-32-36,
+.frame-32-37,
+.frame-32-38,
+.frame-32-39,
+.frame-32-40,
+.frame-32-41,
+.frame-32-42,
+.frame-32-43,
+.frame-32-44,
+.frame-32-45,
+.frame-32-46,
+.frame-32-47,
+.frame-32-48,
+.frame-32-49,
+.frame-32-50,
+.frame-32-51 {
+  flex: 1;
+  height: 15px;
+  min-width: 98px;
+  position: relative;
+}
+
+.placeholder-text-145,
+.placeholder-text-146,
+.placeholder-text-147,
+.placeholder-text-148,
+.placeholder-text-149,
+.placeholder-text-150,
+.placeholder-text-151,
+.placeholder-text-152,
+.placeholder-text-153,
+.placeholder-text-154,
+.placeholder-text-155,
+.placeholder-text-156,
+.placeholder-text-157,
+.placeholder-text-158,
+.placeholder-text-159,
+.placeholder-text-160,
+.placeholder-text-161 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 14.5px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+

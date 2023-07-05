@@ -1,0 +1,32 @@
+.icon-with-label-9,
+.icon-with-label-10,
+.icon-with-label-11,
+.icon-with-label-12,
+.icon-with-label-13,
+.icon-with-label-14,
+.icon-with-label-15,
+.icon-with-label-16,
+.icon-with-label-17 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  position: relative;
+  width: fit-content;
+}
+
+.valid-projects-9,
+.valid-projects-10,
+.valid-projects-11,
+.valid-projects-12,
+.valid-projects-13,
+.valid-projects-14,
+.valid-projects-15,
+.valid-projects-16,
+.valid-projects-17 {
+  letter-spacing: 0;
+  line-height: 14.5px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+

@@ -1,0 +1,68 @@
+.group-6-1,
+.group-6-2,
+.group-6-3,
+.group-6-4,
+.group-6-5,
+.group-6-6,
+.group-6-7,
+.group-6-8,
+.group-6-9,
+.group-6-10,
+.group-6-11,
+.group-6-12,
+.group-6-13,
+.group-6-14 {
+  height: 20px;
+  min-width: 20px;
+  position: relative;
+}
+
+.overlap-group-48,
+.overlap-group-49,
+.overlap-group-50,
+.overlap-group-51,
+.overlap-group-52,
+.overlap-group-53,
+.overlap-group-54,
+.overlap-group-55,
+.overlap-group-56,
+.overlap-group-57,
+.overlap-group-58,
+.overlap-group-59,
+.overlap-group-60,
+.overlap-group-61 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--black);
+  border-radius: 11px;
+  display: flex;
+  height: 22px;
+  left: -1px;
+  min-width: 22px;
+  padding: 3.5px;
+  position: relative;
+  top: -1px;
+}
+
+.ellipse-2,
+.ellipse-2-1,
+.ellipse-2-2,
+.ellipse-2-3,
+.ellipse-2-4,
+.ellipse-2-5,
+.ellipse-2-6,
+.ellipse-2-7,
+.ellipse-2-8,
+.ellipse-2-9,
+.ellipse-2-10,
+.ellipse-2-11,
+.ellipse-2-12,
+.ellipse-2-13 {
+  background-color: var(--black);
+  border: 1px solid;
+  border-radius: 6px;
+  height: 13px;
+  width: 13px;
+}
+

@@ -1,0 +1,84 @@
+.frame-474-12 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 0px 10px;
+  position: relative;
+  width: fit-content;
+}
+
+.swimlane-12 {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  justify-content: center;
+  position: relative;
+  width: fit-content;
+}
+
+.divider-190 {
+  background-color: var(--black);
+  border: 0px none;
+  height: 3px;
+  margin-left: -1.00px;
+  margin-right: -1.00px;
+  margin-top: -1.00px;
+  min-width: 1006px;
+  position: relative;
+}
+
+.names-12 {
+  align-items: center;
+  display: flex;
+  gap: 17px;
+  position: relative;
+  width: fit-content;
+}
+
+.icon-78 {
+  height: 24px;
+  min-width: 24px;
+  position: relative;
+}
+
+.step-name-104 {
+  align-items: flex-start;
+  display: flex;
+  gap: 10px;
+  position: relative;
+  width: fit-content;
+}
+
+.step-name-105 {
+  letter-spacing: 0;
+  line-height: 19px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.divider-191 {
+  background-color: var(--black);
+  border: 0px none;
+  height: 3px;
+  margin-bottom: -1.00px;
+  margin-left: -1.00px;
+  margin-right: -1.00px;
+  min-width: 1006px;
+  position: relative;
+}
+
+.frame-474-12.local-swimlane {
+  gap: unset;
+}
+
+.frame-474-12.local-swimlane .swimlane-12 {
+  height: 36px;
+  justify-content: unset;
+  width: 1004px;
+}
+

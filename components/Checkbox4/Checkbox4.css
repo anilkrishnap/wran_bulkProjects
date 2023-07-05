@@ -1,0 +1,18 @@
+.checkbox-46,
+.checkbox-48,
+.checkbox-50 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  position: relative;
+  width: fit-content;
+}
+
+.checkbox-47,
+.checkbox-49,
+.checkbox-51 {
+  height: 20px;
+  min-width: 20px;
+  position: relative;
+}
+

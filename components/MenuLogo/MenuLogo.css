@@ -1,0 +1,147 @@
+.menu-logo {
+  align-items: flex-end;
+  display: flex;
+  gap: 20px;
+  position: relative;
+  width: fit-content;
+}
+
+.atomsicon2019menu {
+  height: 24px;
+  min-width: 24px;
+  position: relative;
+}
+
+.group-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 19px;
+  position: relative;
+  top: 2px;
+  width: 24px;
+}
+
+.rectangle-2 {
+  background-color: var(--black);
+  height: 1px;
+  width: 24px;
+}
+
+.rectangle-3 {
+  background-color: var(--black);
+  height: 1px;
+  margin-top: 7px;
+  width: 24px;
+}
+
+.rectangle-4 {
+  background-color: var(--black);
+  height: 1px;
+  margin-top: 8px;
+  width: 24px;
+}
+
+.override-logo {
+  height: 32px;
+  min-width: 147.84px;
+  position: relative;
+}
+
+.overlap-group1 {
+  height: 32px;
+  position: relative;
+  width: 148px;
+}
+
+.path-1 {
+  height: 21px;
+  left: 130px;
+  position: absolute;
+  top: 0;
+  width: 18px;
+}
+
+.group-4 {
+  align-items: flex-start;
+  display: flex;
+  height: 22px;
+  left: 0;
+  min-width: 130px;
+  padding: 0 0.0px;
+  position: absolute;
+  top: 10px;
+}
+
+.path-2 {
+  align-self: flex-end;
+  height: 22px;
+  width: 21px;
+}
+
+.shape-1 {
+  height: 22px;
+  margin-left: 2px;
+  margin-top: 0.04px;
+  width: 21px;
+}
+
+.path-3 {
+  height: 21px;
+  margin-left: 3px;
+  margin-top: 0.04px;
+  width: 20px;
+}
+
+.overlap-group {
+  height: 22px;
+  margin-left: 1px;
+  margin-top: 0.04px;
+  position: relative;
+  width: 42px;
+}
+
+.path-4 {
+  height: 21px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 22px;
+}
+
+.shape-2 {
+  height: 22px;
+  left: 21px;
+  position: absolute;
+  top: 0;
+  width: 21px;
+}
+
+.path-5 {
+  height: 22px;
+  margin-left: 1px;
+  width: 20px;
+}
+
+.menu-logo.menu-logo-1 .group-4,
+.menu-logo.menu-logo-2 .group-4,
+.menu-logo.menu-logo-4 .group-4,
+.menu-logo.menu-logo-5 .group-4,
+.menu-logo.menu-logo-19 .group-4,
+.menu-logo.menu-logo-20 .group-4,
+.menu-logo.menu-logo-22 .group-4,
+.menu-logo.menu-logo-23 .group-4 {
+  justify-content: flex-end;
+  padding: unset;
+}
+
+.menu-logo.menu-logo-14 .group-4 {
+  padding: unset;
+}
+
+.menu-logo.menu-logo-16 .group-4,
+.menu-logo.menu-logo-18 .group-4 {
+  justify-content: center;
+  padding: unset;
+}
+

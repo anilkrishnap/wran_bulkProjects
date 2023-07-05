@@ -1,0 +1,23 @@
+.solution-details-1,
+.solution-details-2,
+.solution-details-3 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  margin-right: -2.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.action-items-1,
+.action-items-2,
+.action-items-3 {
+  align-items: flex-start;
+  display: flex;
+  gap: 22px;
+  position: relative;
+  width: fit-content;
+}
+

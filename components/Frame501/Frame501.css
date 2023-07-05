@@ -1,0 +1,109 @@
+.frame-501-1,
+.frame-501-2,
+.frame-501-3,
+.frame-501-4,
+.frame-501-5,
+.frame-501-6,
+.frame-501-7 {
+  align-items: flex-start;
+  display: flex;
+  gap: 16px;
+  padding: 20px 10px 10px;
+  position: relative;
+  width: fit-content;
+}
+
+.inputs-2,
+.inputs-4,
+.inputs-6,
+.inputs-8,
+.inputs-10,
+.inputs-12,
+.inputs-14 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  position: relative;
+  width: 239px;
+}
+
+.inputs-3,
+.inputs-5,
+.inputs-7,
+.inputs-9,
+.inputs-11,
+.inputs-13,
+.inputs-15 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  position: relative;
+  width: 219px;
+}
+
+.input-fields-2,
+.input-fields-3,
+.input-fields-4,
+.input-fields-5,
+.input-fields-6,
+.input-fields-7,
+.input-fields-8 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--alto);
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  height: 30px;
+  padding: 7px 0px 0px;
+  position: relative;
+}
+
+.frame-20,
+.frame-20-1,
+.frame-20-2,
+.frame-20-3,
+.frame-20-4,
+.frame-20-5,
+.frame-20-6 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  justify-content: space-between;
+  padding: 0px 10px;
+  position: relative;
+}
+
+.placeholder-text-45,
+.placeholder-text-46,
+.placeholder-text-47,
+.placeholder-text-48,
+.placeholder-text-49,
+.placeholder-text-50,
+.placeholder-text-51 {
+  letter-spacing: 0;
+  line-height: 14.5px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.elements-29,
+.elements-30,
+.elements-31,
+.elements-32,
+.elements-33,
+.elements-34,
+.elements-35 {
+  align-self: stretch;
+  background-color: var(--black);
+  height: 1px;
+  min-width: 219px;
+  position: relative;
+}
+

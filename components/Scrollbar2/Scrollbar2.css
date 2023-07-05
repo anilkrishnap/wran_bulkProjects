@@ -1,0 +1,32 @@
+.scrollbar-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--black-haze);
+  display: flex;
+  flex-direction: column;
+  padding: 1px;
+  position: relative;
+}
+
+.scroller-3 {
+  background-color: var(--alto);
+  border-radius: 3px;
+  height: 44px;
+  margin-bottom: -19.00px;
+  margin-top: -19.00px;
+  min-width: 6px;
+  position: relative;
+  transform: rotate(90deg);
+}
+
+.scrollbar-2.scrollbar-3,
+.scrollbar-2.scrollbar-4,
+.scrollbar-2.scrollbar-6,
+.scrollbar-2.scrollbar-7 {
+  align-self: unset;
+  left: 0;
+  position: absolute;
+  top: 760px;
+  width: 997px;
+}
+

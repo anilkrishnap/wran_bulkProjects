@@ -1,0 +1,186 @@
+:root { 
+  --alto: #d8dada;
+  --black: #000000;
+  --black-haze: #f6f6f6;
+  --clementine: #ed7000;
+  --deep-cerulean: #0077b4;
+  --fun-green: #008330;
+  --grandis: #fed37f;
+  --mystic: #e6eaed;
+  --regent-st-blue: #abd2e6;
+  --sonic-silver: #747676;
+  --tan-hide: #f3a057;
+  --thunderbird: #d52b1e;
+  --white: #ffffff;
+  --white-lilac: #f7f9fb;
+  --yellow-orange: #ffbc3d;
+ 
+  --font-size-l: 18px;
+  --font-size-m: 14px;
+  --font-size-s: 12px;
+  --font-size-xl: 20px;
+  --font-size-xs: 11px;
+  --font-size-xxl: 32px;
+  --font-size-xxs: 10px;
+ 
+  --font-family-neue_haas_grotesk_display_std-bold: "Neue Haas Grotesk Display Std-Bold", Helvetica;
+  --font-family-neue_haas_grotesk_display_std-regular: "Neue Haas Grotesk Display Std-Regular", Helvetica;
+}
+.neuehaasgroteskdisplaystd-regular-normal-black-14px {
+  color: var(--black);
+  font-family: var(--font-family-neue_haas_grotesk_display_std-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.neuehaasgroteskdisplaystd-regular-normal-sonic-silver-14px {
+  color: var(--sonic-silver);
+  font-family: var(--font-family-neue_haas_grotesk_display_std-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.neuehaasgroteskdisplaystd-bold-black-14px {
+  color: var(--black);
+  font-family: var(--font-family-neue_haas_grotesk_display_std-bold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.neuehaasgroteskdisplaystd-regular-normal-white-14px {
+  color: var(--white);
+  font-family: var(--font-family-neue_haas_grotesk_display_std-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.neuehaasgroteskdisplaystd-bold-black-20px {
+  color: var(--black);
+  font-family: var(--font-family-neue_haas_grotesk_display_std-bold);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.neuehaasgroteskdisplaystd-regular-normal-black-12px {
+  color: var(--black);
+  font-family: var(--font-family-neue_haas_grotesk_display_std-regular);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.neuehaasgroteskdisplaystd-bold-black-32px {
+  color: var(--black);
+  font-family: var(--font-family-neue_haas_grotesk_display_std-bold);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.neuehaasgroteskdisplaystd-bold-thunderbird-18px {
+  color: var(--thunderbird);
+  font-family: var(--font-family-neue_haas_grotesk_display_std-bold);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.neuehaasgroteskdisplaystd-bold-sonic-silver-20px {
+  color: var(--sonic-silver);
+  font-family: var(--font-family-neue_haas_grotesk_display_std-bold);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.neuehaasgroteskdisplaystd-regular-normal-black-11px {
+  color: var(--black);
+  font-family: var(--font-family-neue_haas_grotesk_display_std-regular);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.neuehaasgroteskdisplaystd-regular-normal-black-10px {
+  color: var(--black);
+  font-family: var(--font-family-neue_haas_grotesk_display_std-regular);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.neuehaasgroteskdisplaystd-bold-fun-green-20px {
+  color: var(--fun-green);
+  font-family: var(--font-family-neue_haas_grotesk_display_std-bold);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.neuehaasgroteskdisplaystd-bold-white-10px {
+  color: var(--white);
+  font-family: var(--font-family-neue_haas_grotesk_display_std-bold);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.neuehaasgroteskdisplaystd-regular-normal-deep-cerulean-14px {
+  color: var(--deep-cerulean);
+  font-family: var(--font-family-neue_haas_grotesk_display_std-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.neuehaasgroteskdisplaystd-bold-black-24px {
+  color: var(--black);
+  font-family: var(--font-family-neue_haas_grotesk_display_std-bold);
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.neuehaasgroteskdisplaystd-bold-white-14px {
+  color: var(--white);
+  font-family: var(--font-family-neue_haas_grotesk_display_std-bold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.neuehaasgroteskdisplaystd-regular-normal-white-14px-2 {
+  font-family: var(--font-family-neue_haas_grotesk_display_std-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.neuehaasgroteskdisplaystd-regular-normal-white-10px {
+  color: var(--white);
+  font-family: var(--font-family-neue_haas_grotesk_display_std-regular);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.neuehaasgroteskdisplaystd-bold-black-12px {
+  color: var(--black);
+  font-family: var(--font-family-neue_haas_grotesk_display_std-bold);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.neuehaasgroteskdisplaystd-bold-black-10px {
+  color: var(--black);
+  font-family: var(--font-family-neue_haas_grotesk_display_std-bold);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 700;
+}

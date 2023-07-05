@@ -1,0 +1,63 @@
+.input-fields-423 {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--alto);
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  height: 30px;
+  left: 258px;
+  padding: 7px 0px 0px;
+  position: absolute;
+  top: 364px;
+  width: 66px;
+}
+
+.frame-18-75 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  justify-content: space-between;
+  padding: 0px 10px;
+  position: relative;
+}
+
+.placeholder-text-174 {
+  letter-spacing: 0;
+  line-height: 14.5px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.atomsicon2019close-104 {
+  height: 8px;
+  min-width: 8px;
+  position: relative;
+}
+
+.divider-181 {
+  align-self: stretch;
+  background-color: var(--black);
+  height: 1px;
+  min-width: 66px;
+  position: relative;
+}
+
+.input-fields-423.input-fields-457 {
+  height: 29px;
+  top: 164px;
+}
+
+.input-fields-423.input-fields-491 {
+  height: 29px;
+  top: 285px;
+}
+
+.input-fields-423.input-fields-521 {
+  height: 29px;
+  top: 324px;
+}
+

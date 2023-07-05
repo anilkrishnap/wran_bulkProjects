@@ -1,0 +1,31 @@
+.status-icon-small-32,
+.status-icon-small-33,
+.status-icon-small-34 {
+  background-color: var(--clementine);
+  border-radius: 6px;
+  height: 12px;
+  min-width: 12px;
+  position: relative;
+}
+
+.path-260,
+.path-261,
+.path-262 {
+  height: 6px;
+  left: 5px;
+  position: absolute;
+  top: 2px;
+  width: 1px;
+}
+
+.rectangle-140,
+.rectangle-141,
+.rectangle-142 {
+  background-color: var(--white);
+  height: 1px;
+  left: 5px;
+  position: absolute;
+  top: 9px;
+  width: 1px;
+}
+

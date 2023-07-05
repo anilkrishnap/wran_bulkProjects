@@ -1,0 +1,12 @@
+.local-select-solution-type-4-2,
+.local-select-solution-type-4-3 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  padding: 0px 0px 18px;
+  position: relative;
+}
+

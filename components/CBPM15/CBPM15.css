@@ -1,0 +1,25 @@
+.cbpm-15 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  width: 1024px;
+}
+
+.overlap-group4-4 {
+  height: 1004px;
+  position: relative;
+  width: 1024px;
+}
+
+.nxt_btn {
+	position: absolute;
+	bottom: 48px;
+	left: 482px;
+	background: black;
+  color: var(--white);
+	font-family: var(--font-family-neue_haas_grotesk_display_std-regular);
+	font-size: var(--font-size-m);
+	font-style: normal;
+	font-weight: 400;
+}

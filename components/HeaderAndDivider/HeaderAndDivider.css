@@ -1,0 +1,45 @@
+.header-and-divider {
+  align-self: stretch;
+  height: 48px;
+  min-width: 476px;
+  position: relative;
+}
+
+.header-with-icon {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 476px;
+}
+
+.placeholder-text-28 {
+  letter-spacing: 0;
+  line-height: 22.8px;
+  margin-top: -0.50px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.icon-2 {
+  height: 24px;
+  min-width: 24px;
+  position: relative;
+}
+
+.divider-2 {
+  background-color: var(--black);
+  height: 4px;
+  left: 0;
+  position: absolute;
+  top: 44px;
+  width: 476px;
+}
+
+.header-and-divider.header-and-divider-1 .icon-2 {
+  min-width: 24px;
+}
+

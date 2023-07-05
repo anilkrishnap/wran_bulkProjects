@@ -1,0 +1,257 @@
+.cbpm-13 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  width: 1024px;
+}
+
+.overlap-group5-1 {
+  height: 966px;
+  position: relative;
+  width: 1024px;
+}
+
+.template-create-bulk-projects-new-1 {
+  align-items: flex-start;
+  background-color: var(--white-lilac);
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: fit-content;
+}
+
+.localcbp-modification-3-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 0px 10px;
+  position: relative;
+  width: fit-content;
+}
+
+.navigation-window-16 {
+  height: 823px;
+  min-width: 1004px;
+  position: relative;
+}
+
+.overlap-group3-10 {
+  height: 825px;
+  left: -2px;
+  position: relative;
+  top: -2px;
+  width: 1008px;
+}
+
+.body-16 {
+  align-items: center;
+  background-color: var(--white);
+  border: 4px solid;
+  border-color: var(--black);
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 787px;
+  left: 0;
+  padding: 4px;
+  position: absolute;
+  top: 0;
+  width: 1008px;
+}
+
+.table-with-validation-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--white);
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: center;
+  overflow: hidden;
+  position: relative;
+}
+
+.frame-499-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-right: -4.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.local-create-bulk-projects-table-12-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+  width: fit-content;
+}
+
+.table-new-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 496px;
+  position: relative;
+  width: 1000px;
+}
+
+.table-row-1-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  padding: 4px 0px 0px;
+  position: relative;
+}
+
+.inputs-54 {
+  align-items: center;
+  align-self: stretch;
+  cursor: pointer;
+  display: flex;
+  gap: 16px;
+  padding: 0px 2px 0px 74px;
+  position: relative;
+}
+
+.x-margin-1 {
+  height: 20px;
+  min-width: 20px;
+  position: relative;
+}
+
+.dropdown-input-4 {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--alto);
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 7px;
+  height: 30px;
+  padding: 7px 0px 0px;
+  position: relative;
+}
+
+.frame-18-80 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  gap: 20px;
+  padding: 0px 10px;
+  position: relative;
+}
+
+.frame-32-54 {
+  flex: 1;
+  height: 15px;
+  min-width: 44.5px;
+  position: relative;
+}
+
+.placeholder-text-232 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 14.5px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.atomsicon2019close-108 {
+  height: 8px;
+  min-width: 8px;
+  position: relative;
+}
+
+.elements-105 {
+  align-self: stretch;
+  background-color: var(--black);
+  height: 1px;
+  min-width: 92.5px;
+  position: relative;
+}
+
+.atomsdividersline2-pxblack-9 {
+  align-self: stretch;
+  background-color: var(--black);
+  border: 0px none;
+  height: 3px;
+  margin-bottom: -1.00px;
+  margin-left: -1.00px;
+  margin-right: -1.00px;
+  min-width: 1002px;
+  position: relative;
+}
+
+.divider-250 {
+  background-color: var(--alto);
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1000px;
+}
+
+.divider-251 {
+  background-color: var(--alto);
+  height: 1px;
+  left: 12px;
+  position: absolute;
+  top: 95px;
+  width: 1000px;
+}
+
+.user-interaction-12 {
+  align-items: flex-end;
+  display: flex;
+  height: 32px;
+  justify-content: flex-end;
+  left: 129px;
+  min-width: 32px;
+  position: absolute;
+  top: 521px;
+  transform: rotate(90deg);
+}
+
+.click-container-8 {
+  height: 36px;
+  margin-bottom: -12.0px;
+  position: relative;
+  width: 42px;
+}
+
+.click-28 {
+  height: 32px;
+  left: 2px;
+  position: absolute;
+  top: 0;
+  width: 40px;
+  transform: rotate(270deg);
+}
+
+.click-29 {
+  -webkit-text-stroke: 2px var(--white);
+  left: 0;
+  letter-spacing: 0;
+  line-height: 11px;
+  position: absolute;
+  text-align: center;
+  top: 26px;
+  white-space: nowrap;
+  display: none;
+}
+

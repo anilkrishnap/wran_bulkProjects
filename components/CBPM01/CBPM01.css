@@ -1,0 +1,88 @@
+.cbpm-01 {
+  align-items: flex-start;
+  background-color: var(--white-lilac);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 763px;
+  width: 1024px;
+}
+
+.global-header-58 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: fit-content;
+}
+
+.overlap-group2-3 {
+  height: 338px;
+  margin-left: 10px;
+  position: relative;
+  width: 496px;
+}
+
+.link-widget-1 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  padding: 10px;
+  position: absolute;
+  top: 0;
+  width: 496px;
+}
+
+.frame-27-1 {
+  align-items: center;
+  display: flex;
+  gap: 190px;
+  position: relative;
+  width: fit-content;
+}
+
+.link-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  padding: 20px 0px 50px;
+  position: relative;
+  width: 44px;
+}
+
+.tree-menu-15 {
+  align-items: center;
+  background-color: var(--white);
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  height: 24px;
+  justify-content: center;
+  margin-right: -112.00px;
+  position: relative;
+  width: 156px;
+}
+
+.user-interaction-11 {
+  align-items: flex-end;
+  display: flex;
+  height: 32px;
+  justify-content: flex-end;
+  left: 380px;
+  min-width: 32px;
+  position: absolute;
+  top: 118px;
+  transform: rotate(-90deg);
+}
+
+.click-25 {
+  height: 32px;
+  margin-bottom: -1.0px;
+  width: 40px;
+}
+

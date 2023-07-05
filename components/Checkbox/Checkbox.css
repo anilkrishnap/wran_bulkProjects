@@ -1,0 +1,37 @@
+.checkbox,
+.checkbox-2,
+.checkbox-10,
+.checkbox-4,
+.checkbox-6,
+.checkbox-8 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  position: relative;
+  width: fit-content;
+}
+
+.checkbox-1,
+.checkbox-3,
+.checkbox-11,
+.checkbox-5,
+.checkbox-7,
+.checkbox-9 {
+  height: 20px;
+  min-width: 20px;
+  position: relative;
+}
+
+.placeholder-text-38,
+.placeholder-text-39,
+.placeholder-text-43,
+.placeholder-text-40,
+.placeholder-text-41,
+.placeholder-text-42 {
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+

@@ -1,0 +1,123 @@
+.status-icon-small-30 {
+  background-color: var(--clementine);
+  border-radius: 9.5px/9px;
+  height: 18px;
+  min-width: 19px;
+  position: relative;
+}
+
+.path-210 {
+  height: 8px;
+  left: 8px;
+  position: absolute;
+  top: 3px;
+  width: 2px;
+}
+
+.rectangle-97 {
+  background-color: var(--white);
+  height: 2px;
+  left: 8px;
+  position: absolute;
+  top: 13px;
+  width: 2px;
+}
+
+.status-icon-small-30.status-icon-small-25,
+.status-icon-small-30.status-icon-small-25-1,
+.status-icon-small-30.status-icon-small-25-2,
+.status-icon-small-30.status-icon-small-25-3,
+.status-icon-small-30.status-icon-small-25-4,
+.status-icon-small-30.status-icon-small-26,
+.status-icon-small-30.status-icon-small-26-1,
+.status-icon-small-30.status-icon-small-26-2,
+.status-icon-small-30.status-icon-small-26-3,
+.status-icon-small-30.status-icon-small-26-4,
+.status-icon-small-30.status-icon-small-27,
+.status-icon-small-30.status-icon-small-27-1,
+.status-icon-small-30.status-icon-small-27-2,
+.status-icon-small-30.status-icon-small-27-3,
+.status-icon-small-30.status-icon-small-27-4,
+.status-icon-small-30.status-icon-small-28,
+.status-icon-small-30.status-icon-small-28-1,
+.status-icon-small-30.status-icon-small-28-2,
+.status-icon-small-30.status-icon-small-28-3,
+.status-icon-small-30.status-icon-small-28-4,
+.status-icon-small-30.status-icon-small-29,
+.status-icon-small-30.status-icon-small-29-1,
+.status-icon-small-30.status-icon-small-29-2,
+.status-icon-small-30.status-icon-small-29-3,
+.status-icon-small-30.status-icon-small-29-4 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  height: unset;
+  min-height: 18px;
+  min-width: unset;
+  padding: 3px 8.2px;
+  position: unset;
+  width: 19px;
+}
+
+.status-icon-small-30.status-icon-small-25-1 .path-210,
+.status-icon-small-30.status-icon-small-26-1 .path-210,
+.status-icon-small-30.status-icon-small-27-1 .path-210,
+.status-icon-small-30.status-icon-small-28-1 .path-210,
+.status-icon-small-30.status-icon-small-29-1 .path-210,
+.status-icon-small-30.status-icon-small-25-2 .path-210,
+.status-icon-small-30.status-icon-small-25-3 .path-210,
+.status-icon-small-30.status-icon-small-25-4 .path-210,
+.status-icon-small-30.status-icon-small-25 .path-210,
+.status-icon-small-30.status-icon-small-26-2 .path-210,
+.status-icon-small-30.status-icon-small-26-3 .path-210,
+.status-icon-small-30.status-icon-small-26-4 .path-210,
+.status-icon-small-30.status-icon-small-26 .path-210,
+.status-icon-small-30.status-icon-small-27-2 .path-210,
+.status-icon-small-30.status-icon-small-27-3 .path-210,
+.status-icon-small-30.status-icon-small-27-4 .path-210,
+.status-icon-small-30.status-icon-small-27 .path-210,
+.status-icon-small-30.status-icon-small-28-2 .path-210,
+.status-icon-small-30.status-icon-small-28-3 .path-210,
+.status-icon-small-30.status-icon-small-28-4 .path-210,
+.status-icon-small-30.status-icon-small-28 .path-210,
+.status-icon-small-30.status-icon-small-29-2 .path-210,
+.status-icon-small-30.status-icon-small-29-3 .path-210,
+.status-icon-small-30.status-icon-small-29-4 .path-210,
+.status-icon-small-30.status-icon-small-29 .path-210 {
+  left: unset;
+  margin-left: 0;
+  position: unset;
+  top: unset;
+}
+
+.status-icon-small-30.status-icon-small-25-1 .rectangle-97,
+.status-icon-small-30.status-icon-small-26-1 .rectangle-97,
+.status-icon-small-30.status-icon-small-27-1 .rectangle-97,
+.status-icon-small-30.status-icon-small-28-1 .rectangle-97,
+.status-icon-small-30.status-icon-small-29-1 .rectangle-97,
+.status-icon-small-30.status-icon-small-25-2 .rectangle-97,
+.status-icon-small-30.status-icon-small-25-3 .rectangle-97,
+.status-icon-small-30.status-icon-small-25-4 .rectangle-97,
+.status-icon-small-30.status-icon-small-25 .rectangle-97,
+.status-icon-small-30.status-icon-small-26-2 .rectangle-97,
+.status-icon-small-30.status-icon-small-26-3 .rectangle-97,
+.status-icon-small-30.status-icon-small-26-4 .rectangle-97,
+.status-icon-small-30.status-icon-small-26 .rectangle-97,
+.status-icon-small-30.status-icon-small-27-2 .rectangle-97,
+.status-icon-small-30.status-icon-small-27-3 .rectangle-97,
+.status-icon-small-30.status-icon-small-27-4 .rectangle-97,
+.status-icon-small-30.status-icon-small-27 .rectangle-97,
+.status-icon-small-30.status-icon-small-28-2 .rectangle-97,
+.status-icon-small-30.status-icon-small-28-3 .rectangle-97,
+.status-icon-small-30.status-icon-small-28-4 .rectangle-97,
+.status-icon-small-30.status-icon-small-28 .rectangle-97,
+.status-icon-small-30.status-icon-small-29-2 .rectangle-97,
+.status-icon-small-30.status-icon-small-29-3 .rectangle-97,
+.status-icon-small-30.status-icon-small-29-4 .rectangle-97,
+.status-icon-small-30.status-icon-small-29 .rectangle-97 {
+  left: unset;
+  position: unset;
+  top: unset;
+}
+

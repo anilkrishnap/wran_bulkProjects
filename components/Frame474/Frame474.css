@@ -1,0 +1,114 @@
+.frame-474,
+.frame-474-1,
+.frame-474-2,
+.frame-474-3,
+.frame-474-4,
+.frame-474-5 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 0px 10px;
+  position: relative;
+  width: fit-content;
+}
+
+.swimlane,
+.swimlane-1,
+.swimlane-2,
+.swimlane-3,
+.swimlane-4,
+.swimlane-5 {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  justify-content: center;
+  position: relative;
+  width: fit-content;
+}
+
+.divider-32,
+.divider-34,
+.divider-36,
+.divider-38,
+.divider-40,
+.divider-42 {
+  background-color: var(--black);
+  border: 0px none;
+  height: 3px;
+  margin-left: -1.00px;
+  margin-right: -1.00px;
+  margin-top: -1.00px;
+  min-width: 1006px;
+  position: relative;
+}
+
+.names,
+.names-1,
+.names-2,
+.names-3,
+.names-4,
+.names-5 {
+  align-items: center;
+  display: flex;
+  gap: 17px;
+  position: relative;
+  width: fit-content;
+}
+
+.step-name,
+.step-name-2,
+.step-name-4,
+.step-name-6,
+.step-name-8,
+.step-name-10 {
+  align-items: flex-start;
+  display: flex;
+  gap: 10px;
+  position: relative;
+  width: fit-content;
+}
+
+.step-name-1,
+.step-name-3,
+.step-name-5,
+.step-name-7,
+.step-name-9,
+.step-name-11 {
+  letter-spacing: 0;
+  line-height: 19px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.icon-13,
+.icon-14,
+.icon-15,
+.icon-16,
+.icon-17,
+.icon-18 {
+  height: 24px;
+  min-width: 24px;
+  position: relative;
+}
+
+.divider-33,
+.divider-35,
+.divider-37,
+.divider-39,
+.divider-41,
+.divider-43 {
+  background-color: var(--black);
+  border: 0px none;
+  height: 3px;
+  margin-bottom: -1.00px;
+  margin-left: -1.00px;
+  margin-right: -1.00px;
+  min-width: 1006px;
+  position: relative;
+}
+

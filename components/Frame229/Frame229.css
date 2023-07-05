@@ -1,0 +1,90 @@
+.frame-229,
+.frame-229-1,
+.search-bar,
+.search-bar-1,
+.search-bar-2,
+.frame-229-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 0px 0px 10px 10px;
+  position: relative;
+  width: fit-content;
+}
+
+.input-fields-32,
+.input-fields-33,
+.input-fields-34,
+.input-fields-35,
+.input-fields-36,
+.input-fields-37 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--alto);
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  height: 29px;
+  justify-content: center;
+  padding: 7px 0px 0px;
+  position: relative;
+  width: 253px;
+}
+
+.elements-59,
+.elements-60,
+.elements-61,
+.elements-62,
+.elements-63,
+.elements-64 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  position: relative;
+}
+
+.frame-20-29,
+.frame-20-30,
+.frame-20-31,
+.frame-20-32,
+.frame-20-33,
+.frame-20-34 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  justify-content: space-between;
+  padding: 0px 10px;
+  position: relative;
+}
+
+.placeholder-text-75,
+.placeholder-text-76,
+.placeholder-text-77,
+.placeholder-text-78,
+.placeholder-text-79,
+.placeholder-text-80 {
+  letter-spacing: 0;
+  line-height: 14.5px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.divider-60,
+.divider-61,
+.divider-62,
+.divider-63,
+.divider-64,
+.divider-65 {
+  align-self: stretch;
+  background-color: var(--black);
+  height: 1px;
+  min-width: 253px;
+  position: relative;
+}
+

@@ -1,0 +1,79 @@
+.input-fields-522 {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--alto);
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  height: 29px;
+  left: 583px;
+  padding: 7px 0px 0px;
+  position: absolute;
+  top: 164px;
+  width: 130px;
+}
+
+.frame-18-76 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  justify-content: space-between;
+  padding: 0px 10px;
+  position: relative;
+}
+
+.placeholder-text-175 {
+  letter-spacing: 0;
+  line-height: 14.5px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.atomsicon2019close-105 {
+  height: 8px;
+  min-width: 8px;
+  position: relative;
+}
+
+.divider-182 {
+  align-self: stretch;
+  background-color: var(--black);
+  height: 1px;
+  min-width: 130px;
+  position: relative;
+}
+
+.input-fields-522.input-fields-523 {
+  top: 204px;
+}
+
+.input-fields-522.input-fields-524 {
+  top: 245px;
+}
+
+.input-fields-522.input-fields-525 {
+  top: 285px;
+}
+
+.input-fields-522.input-fields-526 {
+  left: 439px;
+}
+
+.input-fields-522.input-fields-527 {
+  left: 439px;
+  top: 204px;
+}
+
+.input-fields-522.input-fields-528 {
+  left: 439px;
+  top: 245px;
+}
+
+.input-fields-522.input-fields-529 {
+  left: 439px;
+  top: 285px;
+}
+

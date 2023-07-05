@@ -1,0 +1,9 @@
+.inputs-18 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  position: relative;
+  width: 239px;
+}
+

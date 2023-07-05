@@ -1,0 +1,84 @@
+.icon-with-label-18,
+.icon-with-label-19,
+.icon-with-label-20,
+.icon-with-label-21,
+.icon-with-label-22,
+.icon-with-label-23,
+.icon-with-label-24,
+.icon-with-label-25,
+.icon-with-label-26 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  margin-left: -6.00px;
+  margin-right: -6.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.status-icon-small-10,
+.status-icon-small-11,
+.status-icon-small-12,
+.status-icon-small-13,
+.status-icon-small-14,
+.status-icon-small-15,
+.status-icon-small-16,
+.status-icon-small-17,
+.status-icon-small-24 {
+  height: 18px;
+  min-width: 19px;
+  position: relative;
+}
+
+.overlap-group-62,
+.overlap-group-63,
+.overlap-group-64,
+.overlap-group-65,
+.overlap-group-66,
+.overlap-group-67,
+.overlap-group-68,
+.overlap-group-69,
+.overlap-group-70 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 2px solid;
+  border-color: var(--sonic-silver);
+  border-radius: 10.5px/10px;
+  display: flex;
+  height: 20px;
+  left: -1px;
+  min-width: 21px;
+  padding: 2.6px 2.7px;
+  position: relative;
+  top: -1px;
+}
+
+.path-4-copy-3,
+.path-4-copy-3-1,
+.path-4-copy-3-2,
+.path-4-copy-3-3,
+.path-4-copy-3-4,
+.path-4-copy-3-5,
+.path-4-copy-3-6,
+.path-4-copy-3-7,
+.path-4-copy-3-8 {
+  height: 11px;
+  width: 11px;
+}
+
+.valid-projects-18,
+.valid-projects-19,
+.valid-projects-20,
+.valid-projects-21,
+.valid-projects-22,
+.valid-projects-23,
+.valid-projects-24,
+.valid-projects-25,
+.valid-projects-26 {
+  letter-spacing: 0;
+  line-height: 14.5px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+

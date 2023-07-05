@@ -1,0 +1,47 @@
+.title-and-icon,
+.title-and-icon-1,
+.title-and-icon-2,
+.title-and-icon-3,
+.title-and-icon-4,
+.title-and-icon-5,
+.title-and-icon-6,
+.title-and-icon-7,
+.title-and-icon-8 {
+  align-items: flex-start;
+  display: flex;
+  gap: 752px;
+  position: relative;
+  width: fit-content;
+}
+
+.validation-status,
+.validation-status-1,
+.validation-status-2,
+.validation-status-3,
+.validation-status-4,
+.validation-status-5,
+.validation-status-6,
+.validation-status-7,
+.validation-status-8 {
+  letter-spacing: 0;
+  line-height: 19px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: 192px;
+}
+
+.icon-92,
+.icon-93,
+.icon-94,
+.icon-95,
+.icon-96,
+.icon-97,
+.icon-98,
+.icon-99,
+.icon-100 {
+  height: 16px;
+  min-width: 16px;
+  position: relative;
+}
+
