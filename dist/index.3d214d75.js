@@ -27426,7 +27426,7 @@ function App() {
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactRouterDom.Route), {
-                    path: "/cbpm-01",
+                    path: "/:path(|cbpm-01)",
                     children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _cbpm01Default.default), {
                         frame14: "/img/click-1.svg",
                         globalHeader2Props: cBPM01Data.globalHeader2Props,
@@ -27609,7 +27609,7 @@ function App() {
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactRouterDom.Route), {
-                    path: "/:path(|cbpm-11)",
+                    path: "/cbpm-11",
                     children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _cbpm11Default.default), {
                         ...cBPM11Data
                     }, void 0, false, {
@@ -41630,6 +41630,7 @@ var _reactDefault = parcelHelpers.interopDefault(_react);
 var _globalHeader2 = require("../GlobalHeader2");
 var _globalHeader2Default = parcelHelpers.interopDefault(_globalHeader2);
 var _globalHeader4Css = require("./GlobalHeader4.css");
+var _reactRouterDom = require("react-router-dom");
 function GlobalHeader4(props) {
     const { globalHeader2Props } = props;
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -41643,7 +41644,7 @@ function GlobalHeader4(props) {
                 aTOMSICON2019chatCopyProps: globalHeader2Props.aTOMSICON2019chatCopyProps
             }, void 0, false, {
                 fileName: "components/GlobalHeader4/index.jsx",
-                lineNumber: 10,
+                lineNumber: 11,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -41664,21 +41665,32 @@ function GlobalHeader4(props) {
                                                 alt: "TAB / Item / Bar"
                                             }, void 0, false, {
                                                 fileName: "components/GlobalHeader4/index.jsx",
-                                                lineNumber: 21,
+                                                lineNumber: 22,
                                                 columnNumber: 15
                                             }, this),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                                                 className: "item-name-2 neuehaasgroteskdisplaystd-regular-normal-black-14px",
-                                                children: "Home"
+                                                children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactRouterDom.Link), {
+                                                    to: "/cbpm-01",
+                                                    style: {
+                                                        color: "inherit",
+                                                        textDecoration: "none"
+                                                    },
+                                                    children: "Home"
+                                                }, void 0, false, {
+                                                    fileName: "components/GlobalHeader4/index.jsx",
+                                                    lineNumber: 23,
+                                                    columnNumber: 96
+                                                }, this)
                                             }, void 0, false, {
                                                 fileName: "components/GlobalHeader4/index.jsx",
-                                                lineNumber: 22,
+                                                lineNumber: 23,
                                                 columnNumber: 15
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "components/GlobalHeader4/index.jsx",
-                                        lineNumber: 20,
+                                        lineNumber: 21,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -41687,13 +41699,13 @@ function GlobalHeader4(props) {
                                         alt: "Frame 14"
                                     }, void 0, false, {
                                         fileName: "components/GlobalHeader4/index.jsx",
-                                        lineNumber: 24,
+                                        lineNumber: 25,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "components/GlobalHeader4/index.jsx",
-                                lineNumber: 19,
+                                lineNumber: 20,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -41708,7 +41720,7 @@ function GlobalHeader4(props) {
                                                 alt: "TAB / Item / Bar"
                                             }, void 0, false, {
                                                 fileName: "components/GlobalHeader4/index.jsx",
-                                                lineNumber: 28,
+                                                lineNumber: 29,
                                                 columnNumber: 15
                                             }, this),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -41716,13 +41728,13 @@ function GlobalHeader4(props) {
                                                 children: "Solution Manager"
                                             }, void 0, false, {
                                                 fileName: "components/GlobalHeader4/index.jsx",
-                                                lineNumber: 29,
+                                                lineNumber: 30,
                                                 columnNumber: 15
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "components/GlobalHeader4/index.jsx",
-                                        lineNumber: 27,
+                                        lineNumber: 28,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -41731,13 +41743,13 @@ function GlobalHeader4(props) {
                                         alt: "Frame 14"
                                     }, void 0, false, {
                                         fileName: "components/GlobalHeader4/index.jsx",
-                                        lineNumber: 31,
+                                        lineNumber: 32,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "components/GlobalHeader4/index.jsx",
-                                lineNumber: 26,
+                                lineNumber: 27,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -41750,7 +41762,7 @@ function GlobalHeader4(props) {
                                                 className: "bar-2"
                                             }, void 0, false, {
                                                 fileName: "components/GlobalHeader4/index.jsx",
-                                                lineNumber: 35,
+                                                lineNumber: 36,
                                                 columnNumber: 15
                                             }, this),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -41758,13 +41770,13 @@ function GlobalHeader4(props) {
                                                 children: "Create/Upload Bulk Solutions"
                                             }, void 0, false, {
                                                 fileName: "components/GlobalHeader4/index.jsx",
-                                                lineNumber: 36,
+                                                lineNumber: 37,
                                                 columnNumber: 15
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "components/GlobalHeader4/index.jsx",
-                                        lineNumber: 34,
+                                        lineNumber: 35,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -41773,38 +41785,38 @@ function GlobalHeader4(props) {
                                         alt: "Frame 14"
                                     }, void 0, false, {
                                         fileName: "components/GlobalHeader4/index.jsx",
-                                        lineNumber: 38,
+                                        lineNumber: 39,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "components/GlobalHeader4/index.jsx",
-                                lineNumber: 33,
+                                lineNumber: 34,
                                 columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "components/GlobalHeader4/index.jsx",
-                        lineNumber: 18,
+                        lineNumber: 19,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                         className: "divider-6"
                     }, void 0, false, {
                         fileName: "components/GlobalHeader4/index.jsx",
-                        lineNumber: 41,
+                        lineNumber: 42,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "components/GlobalHeader4/index.jsx",
-                lineNumber: 17,
+                lineNumber: 18,
                 columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
         fileName: "components/GlobalHeader4/index.jsx",
-        lineNumber: 9,
+        lineNumber: 10,
         columnNumber: 5
     }, this);
 }
@@ -41818,7 +41830,7 @@ $RefreshReg$(_c, "GlobalHeader4");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","../GlobalHeader2":"fJA5y","./GlobalHeader4.css":"3iCZe","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"fJA5y":[function(require,module,exports) {
+},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","../GlobalHeader2":"fJA5y","./GlobalHeader4.css":"3iCZe","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","react-router-dom":"cHIiW"}],"fJA5y":[function(require,module,exports) {
 var $parcel$ReactRefreshHelpers$84da = require("@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
 var prevRefreshReg = window.$RefreshReg$;
 var prevRefreshSig = window.$RefreshSig$;
