@@ -119,7 +119,7 @@ function App() {
         <Route path="/cbpm-14">
           <CBPM14 {...cBPM14Data} />
         </Route>
-        <Route path="/cbpm-01">
+        <Route path="/:path(|cbpm-01)">
           <CBPM01
             frame14="/img/click-1.svg"
             globalHeader2Props={cBPM01Data.globalHeader2Props}
@@ -180,7 +180,7 @@ function App() {
         <Route path="/cbpm-10">
           <CBPM10 {...cBPM10Data} />
         </Route>
-        <Route path="/:path(|cbpm-11)">
+        <Route path="/cbpm-11">
           <CBPM11 {...cBPM11Data} />
         </Route>
         <Route path="/cbpm-12">

@@ -1,6 +1,7 @@
 import React from "react";
 import GlobalHeader2 from "../GlobalHeader2";
 import "./GlobalHeader4.css";
+import {Link} from "react-router-dom";
 
 function GlobalHeader4(props) {
   const { globalHeader2Props } = props;
@@ -19,7 +20,7 @@ function GlobalHeader4(props) {
           <div className="tab-items-28">
             <div className="frame-14-30">
               <img className="tab-item-bar" src="/img/tab---item---bar@2x.png" alt="TAB / Item / Bar" />
-              <div className="item-name-2 neuehaasgroteskdisplaystd-regular-normal-black-14px">Home</div>
+              <div className="item-name-2 neuehaasgroteskdisplaystd-regular-normal-black-14px"><Link to="/cbpm-01" style={{color:'inherit', textDecoration:'none'}}>Home</Link></div>
             </div>
             <img className="frame-14-31" src="/img/frame-14@2x.png" alt="Frame 14" />
           </div>
